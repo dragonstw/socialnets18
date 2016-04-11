@@ -668,5 +668,11 @@ Physical attendance at lectures is expected.  However, you can miss 2 days for a
  
 During lectures, we will learn through groups and a variety of active learning techniques.  Participation in these activities is part of your grade.
 
+## OHSU Grade Submission Policy
+Graduate Studies in the OHSU School of Medicine is committed to providing grades to students in a timely manner. Course instructors will provide students with information in writing at the beginning of each course that describes the grading policies and procedures including but not limited to evaluation criteria, expected time needed to grade individual student examinations and type of feedback they will provide. Class grades are due to the Registrar by the Friday following the week of finals. 
+
+## Students with Disabilities
+Our program is committed to all students achieving their potential. If you have a disability or think you may have a disability (physical, learning, hearing, vision, psychological) which may need a reasonable accommodation please contact Student Access at (503) 494-0082 or e-mail at orchards@ohsu.edu to discuss your needs. You can also find more information at [www.ohsu.edu/student-access](www.ohsu.edu/student-access). Because accommodations can take time to implement, it is important to have this discussion as soon as possible. All information regarding a student’s disability is kept in accordance with relevant state and federal laws.
+
 ## Acknowledgments
 Many thanks to Kyle Gorman (now at Google) and Steven Bedrick (CSLU faculty) for their efforts on previous versions of this class.
