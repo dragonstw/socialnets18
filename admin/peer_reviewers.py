@@ -88,7 +88,7 @@ if __name__=='__main__':
             assign_reviewers(
                 students,
                 tag="{}, please complete a peer review on " + str(hw_tag) + \
-                " for {} and {}" + opts.due )
+                " for {} and {} " + opts.due )
             print
 
         write_review_template(hw_tag)

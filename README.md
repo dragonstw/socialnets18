@@ -47,7 +47,7 @@ principles above.
 	c. Edit the [admin/students.txt](admin/students.txt) file to have
 	one student's initials (or some other unique ID) per line.
 	
-	d. Run `python peer_reviewers.py -a <hw_tag> -d
+	d. Run `python admin/peer_reviewers.py -a <hw_tag> -d
 	<due-date-string>`; this will produce  template for peer reviews
 	in `grades/<hw_tag>.for_X_by_Y.md` and will also print to `stdout`
 	a random set of reviewer assignments (2 reviewers each).
