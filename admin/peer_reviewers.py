@@ -11,6 +11,9 @@ def assign_reviewers(ls, tag=None):
     while np.any(rv1==ls):
         np.random.shuffle(rv1)
 
+    log = open(os.path.join(
+        grades_dir, "{}.peer_assignments.txt".format(hw_tag)), 'wb')
+
     # somewhat brute force algorithm to find second non-conflicting shuffle
     rv2 = []
     while True:
@@ -31,9 +34,12 @@ def assign_reviewers(ls, tag=None):
     for p in pairings:
         if tag is None:
             print ",".join(p)
+            log.write(",".join(p) + "\n")
         else:
-            print tag.format(p[0].upper(), p[1].upper(), p[2].upper())
+            print tag.format(p[0], p[1], p[2])
+            log.write(tag.format(p[0], p[1], p[2]) + "\n")
 
+    log.close()
     return pairings
 
 
@@ -85,7 +91,7 @@ if __name__=='__main__':
     
     for hw_tag in opts.hw_list:
         if opts.assign:
-            assign_reviewers(
+            assignment_text = assign_reviewers(
                 students,
                 tag="{}, please complete a peer review on " + str(hw_tag) + \
                 " for {} and {} " + opts.due )

@@ -1,14 +1,14 @@
+# AGGREGATED SCORE: /100
+Late penalty: 0%
+
 *******************
-# Reviews
+# Instructor/TA Review
+{}
 
-## Instructor
+*******************
+# Peer Review 1
+{}
 
-
-### Peer reviews of others:
-
-
-## Reviewer 1
-
-
-
-## Reviewer 2
+*******************
+# Peer Review 2
+{}
