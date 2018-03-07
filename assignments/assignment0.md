@@ -22,10 +22,10 @@ using in this class.
 	interleave markdown and LaTeX equations with runnable Python code.
 
 3. **Install [git](https://git-scm.com/)** - the version control
-   software we will use to share and review homework assignments.
+   [software we will use](../resources/using_git.md) to submit homework assignments.
    
-   a. Make sure you have a gitlab account, and have permissions to
-   push and pull from your class's repository.
+   a. Make sure you have a `github.com` account, and have permissions to
+   push and pull from your class's repository `dragonstw/socialnets18`.
    b. Clone the class repository and set up any necessary git global
    variables.
    c. Create a `develop-<YOUR-INITIALS>` branch off of master via `git
@@ -51,7 +51,7 @@ using in this class.
    
 
 ## Due
-Before next class period
+8th March, 2018, 12:00pm
 
 
 ## Rubric: /100

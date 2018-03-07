@@ -2,6 +2,7 @@
 *******************
 
 Addis Ababa Institute of Technology
+
 Spring Semester 2018
 
 ## Course Details
@@ -9,8 +10,8 @@ Spring Semester 2018
 ### Instructors
 [**Stephen Wu**](https://sites.google.com/site/stephentzeinnwu/)
 * Email: wu dot stephen dot t at gmail dot com
-* Office: PB103 Pharmacy Campus
 * LinkedIn: [stephentzeinnwu](http://linkedin.com/in/stephentzeinnwu)
+* Office: PB103 Pharmacy Campus
 <!-- * Twitter: @just\_stw\_it -->
 
 **Venkateswarlu Sunkari**
@@ -42,16 +43,17 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 
 ## Schedule and Assignments
  
-| # | Topic | Reading | Activity | Materials | Notes |
+| # | Topic | Concepts | Reading | Activity | Materials | Notes |
 |---|--------|-------------------------------------------|-----------------------------------------------|------------------------------------------------------------|----------------|---------|---------|
-| 1 | Networks: What and Why? | E&K, chap. 1 | [0:Setup](assignments/assignment0.md) | [slides](resources/notavailable.md) | Discuss this Syllabus |
-| 2 | Random Network Models |  |  |  |  |
-| 3 | Network Centrality |  |  |  |  |
-| 4 | Community |  |  |  |  |
-| 5 | Small worlds, optimization, formation, search |  |  |  |  |
-| 6 | Contagion |  |  |  |  |
-| 7 | Applications of Social Network Analysis |  |  |  |  |
-| 8 | Online social networks |  |  |  |  |
+| 0 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/notavailable.md) | Discuss this Syllabus |
+| 1 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search, giant component | E&K 2.2-2. | Upload and visualize a social network | [slides](resources/notavailable.md) |  |
+| 2 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
+| 3 | Network Centrality | betweenness, closeness, eigenvector centrality, network centralization |  | Calculate node centrality | [slides](resources/notavailable.md) |  |
+| 4 | Community | clustering, community structure, modularity, overlapping communities |  | Detect communities in real-life networks | [slides](resources/notavailable.md) |  |
+| 5 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
+| 6 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
+| 7 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
+| 8 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
 
 ## Communications
 * You should sign up for the [**AAIT ITSC Slack group**](https://aaititsc.slack.com/) (I'll send an invite) for communication with the professor and with other students.
