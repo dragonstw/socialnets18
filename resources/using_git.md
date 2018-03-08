@@ -25,9 +25,9 @@ At this point, you should clone the git repository for the class.  In other word
 
 Go to a directory where you want your `socialnets18` folder to live.  Type this:
 
-    git clone git@repo.cslu.ohsu.edu:stephenwu/socialnets18.git
+    git clone git@github.com:dragonstw/socialnets18.git
 
-(Note: if you didn't set up your SSH key, you can do `git clone https://repo.cslu.ohsu.edu/stephenwu/socialnets18.git`, but again, I highly recommend the SSH key route.)
+(Note: if you didn't set up your SSH key, you can do `git clone https://github.com/dragonstw/socialnets18.git`, but again, I highly recommend the SSH key route.)
 
 You should be able to see that there are files like `README.md` and folders like `admin`, `grades`, `hw`, `resources`.
 
@@ -40,7 +40,7 @@ When you clone a repository, by default you start out on the `master` branch.  Y
         develop-stephenwu
       * master
         syllabus
-	~/teaching/socialnets18$
+    ~/teaching/socialnets18$
 
 Create your own branch, which you will use for the rest of this class.
 

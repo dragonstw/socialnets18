@@ -1,4 +1,4 @@
-# HW0: Test
+# Assignment 0: Test and Setup
 ***********
 
 ## Description
@@ -22,7 +22,7 @@ using in this class.
 	interleave markdown and LaTeX equations with runnable Python code.
 
 3. **Install [git](https://git-scm.com/)** - the version control
-   [software we will use](../resources/using_git.md) to submit homework assignments.
+   software we will use to submit homework assignments. Some tips on using git are [here](../resources/using_git.md).
    
    a. Make sure you have a `github.com` account, and have permissions to
    push and pull from your class's repository `dragonstw/socialnets18`.
