@@ -44,8 +44,8 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 ## Schedule and Assignments
  
 | # | Topic | Concepts | Reading | Activity | Materials | Notes |
-|---|--------|-------------------------------------------|-----------------------------------------------|------------------------------------------------------------|----------------|---------|---------|
-| 0 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/notavailable.md) | Discuss this Syllabus |
+|---|-------|----------|---------|----------|-----------|-------|
+| 0 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01\ -\ introduction.pptx) | Discuss this Syllabus |
 | 1 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search, giant component | E&K 2.2-2. | Upload and visualize a social network | [slides](resources/notavailable.md) |  |
 | 2 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
 | 3 | Network Centrality | betweenness, closeness, eigenvector centrality, network centralization |  | Calculate node centrality | [slides](resources/notavailable.md) |  |
