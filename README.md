@@ -1,5 +1,5 @@
 # ITSC-5C22: Social Network Analysis
-*******************
+******************* 
 
 Addis Ababa Institute of Technology
 
