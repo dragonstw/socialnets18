@@ -10,13 +10,13 @@ def tuple_list_to_string(tl):
 
 
 def print_version_info():
-    print "Using Python version {}.{}.{}".format(
-        *sys.version_info[:3])
-    print "Using nltk version {}".format(nltk.__version__)
+    print ("Using Python version {}.{}.{}".format(
+        *sys.version_info[:3]))
+    print ("Using nltk version {}".format(nltk.__version__))
 
 
 def name_vs_brown():
-    name = raw_input("Please enter your full name: ")
+    name = input("Please enter your full name: ")
     name_parts = name.lower().split(' ')
     name_frequency = {}
 
@@ -33,14 +33,14 @@ def name_vs_brown():
     sorted_unigrams = sorted(unigram_frequency.items(),
                              key=operator.itemgetter(1), reverse=True)
 
-    print nilsimsa.Nilsimsa(name).hexdigest()
-    print "-----------------------------"
-    print tuple_list_to_string(name_frequency.items())
-    print "-----------------------------"
-    print tuple_list_to_string(sorted_unigrams[:20]
+    print (nilsimsa.Nilsimsa(name).hexdigest())
+    print ("-----------------------------")
+    print (tuple_list_to_string(name_frequency.items()))
+    print ("-----------------------------")
+    print (tuple_list_to_string(sorted_unigrams[:20]
                                + [(""," .")]*3
-                               + sorted_unigrams[-20:])
-    print "-----------------------------"
+                               + sorted_unigrams[-20:]))
+    print ("-----------------------------")
 
 
 if __name__=="__main__":
