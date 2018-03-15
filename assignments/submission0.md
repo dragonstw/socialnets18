@@ -59,5 +59,5 @@ different ways.
  -    0 kebede
  -    0 asfaw
 -----------------------------
-```Using Python version 2.7.8
-Using nltk version 3.2.5```
+Using Python version 2.7.8
+Using nltk version 3.2.5
