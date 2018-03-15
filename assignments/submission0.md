@@ -12,16 +12,16 @@ Please enter your full name: Simon Asfaw KEBEDE
      4 simon
      0 asfaw
 -----------------------------
- -69971 the
- -58334 ,
- -49346 .
- -36412 of
- -28853 and
- -26158 to
- -23195 a
- -21337 in
- -10594 that
- -10109 is
+ - 69971 the
+ - 58334 ,
+ - 49346 .
+ - 36412 of
+ - 28853 and
+ - 26158 to
+ - 23195 a
+ - 21337 in
+ - 10594 that
+ - 10109 is
  - 9815 was
  - 9548 he
  - 9489 for
