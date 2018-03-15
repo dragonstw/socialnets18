@@ -1,7 +1,9 @@
-## Description of what the code does
-"    The Python code Displays python version and also nltk version using the print_version_info() method.
+## Description of what the code does##
+   The Python code Displays python version and also nltk version using the print_version_info() method.
 And it laso takes user name and displayes it using the name_vs_brown() method and prints it in three
-different ways.<br/>"
+different ways.
+
+## What the Code Did##
 Please enter your full name: Simon Asfaw KEBEDE
 234033f074ea0858ae9989a438f0e31586306642060684864206f20607144401
 -----------------------------
