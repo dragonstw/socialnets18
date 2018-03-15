@@ -51,6 +51,6 @@ Using nltk version 3.2.5
 
 -----------------------------
 Description:
-What the test_setup.py does is first accept the fullname of the user running the code and look for the word that has been entered inside the nltk.corpus.brown.words and if the name is not there it will give it a unigram_frequency and name_frequency  of 0(zero) and insert the name in to the category. when i entered the name "fikirawoke" it couldn't find a match so it intern included fikirawoke in to the words category with a name_frequency of 0(zero) as shown in the above output.
+What the test_setup.py does is first accept the fullname of the user running the code and look for a match of the word that has been entered inside the nltk.corpus.brown.words and if the name is not there it will give it a unigram_frequency and name_frequency  of 0(zero) and insert the name in to the category, but if the name you entered is found it will show you with its frequency. when i entered the name "fikirawoke" it couldn't find a match so it intern included fikirawoke in to the words category with a name_frequency of 0(zero) as shown in the above output.
 What is interesting about this is the fact that it adds the new words that were not in the list and making them available.
 Generally this code printed out nltk.corpus.brown.words 20 from the top and other 20 from the bottom and finally gave the python and nltk versions i am using.  
