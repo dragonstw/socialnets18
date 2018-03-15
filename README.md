@@ -63,9 +63,13 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 ## Course Policies
 ### Course Grade
 * 50% Lab Activities 
-* 20% Midterm Exam
-* 20% Final exam
+* 10% Midterm Exam
+* 30% Final exam
 * 10% Participation (attendance, interaction in class, knowledge quizzes)
+
+For assigned Lab Activities, two things should be mentioned:
+* All assignments must be turned in by the due date. Students who leave _any one assignment_ unfinished at the and of the class will receive an `Fx` score for the whole course.
+* Youcan drop one of your assignment grades (i.e., it will not count toward your final score).
 
 Letter grades are given at 5-point intervals:
 * A+       90-100
@@ -84,10 +88,10 @@ Letter grades are given at 5-point intervals:
 A grading rubric will be posted along with each assignment (Lab Activity), explicitly calling out several areas your assignment should address.  An effort is made for this grading to be balanced, gauging your effort, learning, and of course, competency.
 
 ### Attendance & Participation
-Physical attendance at lectures & labs is expected.  However, you can miss 2 days for any reason with no consequence to your participation grade.  Please discuss any extenuating circumstances with the instructor.
+Physical attendance at lectures & labs is expected.  However, you can miss 4 days for any reason (e.g., sickness, death of a _friend's_ family member) with no consequence to your participation grade.  Please discuss any extenuating circumstances (e.g., death in _your_ family, severe illness or injury) with the instructor.
  
-    Missed classes:   _______________________     __________________________
- 
+    Missed classes:  ____________   ____________   ____________   ____________
+    
 During lectures & labs, we will learn through groups and a variety of active learning techniques.  Participation in these activities is part of your grade (part of the 10%).
 
 
