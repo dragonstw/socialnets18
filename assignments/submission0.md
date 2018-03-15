@@ -46,7 +46,16 @@
      1 jawbone
      0 natnael
      0 getachew
-     
+
 -----------------------------
 Using Python version 2.7.14
 Using nltk version 3.2.5
+
+------------------------------
+
+  # Description
+
+    test_setup.py uses brown which is a collection of words paired with their number of frequency and test_setup.py 
+    displays the list of the words from higher frequency to lower in the brown list and finaly it splits the input name 
+    and searches for the names separately and displays the occurence of your name in the brown 
+-------------------------------
