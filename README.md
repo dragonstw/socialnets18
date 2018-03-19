@@ -23,7 +23,7 @@ Spring Semester 2018
 * Th 8:00 - 12:00pm | Lab NB111
 
 Office Hours:
-* By appointment (contact via Slack message or e-mail)
+* By appointment (contact via [Slack message](https://aaititsc.slack.com/messages) or e-mail)
 
 
 ### Course Description & Goals
@@ -46,8 +46,8 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 | # | Topic | Concepts | Reading | Activity | Materials | Notes |
 | --- | --- | -------- | ------- | -------- | --------- | ----- |
 | 0 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |
-| 1 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search, giant component | E&K 2.1-2.4 | [0:Setup](assignments/assignment0.md) | [slides](resources/02_GraphTheory.pptx) |  |
-| 2 | Network Centrality | betweenness, closeness, eigenvector centrality, network centralization |  | Download, visualize, calculate on a social network | [slides](resources/notavailable.md) |  |
+| 1 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search | E&K 2.1-2.4 | [0:Setup](assignments/assignment0.md) | [slides](resources/02_GraphTheory.pptx) |  |
+| 2 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties, centrality, betweenness | E&K 3.1-3.6 | Download, visualize, calculate on a social network | [slides](resources/notavailable.md) |  |
 | 3 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
 | 4 | Community | clustering, community structure, modularity, overlapping communities |  | Detect communities in real-life networks | [slides](resources/notavailable.md) |  |
 | 5 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
@@ -88,9 +88,9 @@ Letter grades are given at 5-point intervals:
 A grading rubric will be posted along with each assignment (Lab Activity), explicitly calling out several areas your assignment should address.  An effort is made for this grading to be balanced, gauging your effort, learning, and of course, competency.
 
 ### Attendance & Participation
-Physical attendance at lectures & labs is expected.  However, you can miss 4 days for any reason (e.g., sickness, death of a _friend's_ family member) with no consequence to your participation grade.  Please discuss any extenuating circumstances (e.g., death in _your_ family, severe illness or injury) with the instructor.
+Physical attendance at lectures & labs is expected.  However, you can miss 3 days for any reason (e.g., sickness, death of a _friend's_ family member) with no consequence to your participation grade.  Please discuss any extenuating circumstances (e.g., death in _your_ family, severe illness or injury) with the instructor.
  
-    Missed classes:  ____________   ____________   ____________   ____________
+    Missed classes:  ____________   ____________   ____________ 
     
 During lectures & labs, we will learn through groups and a variety of active learning techniques.  Participation in these activities is part of your grade (part of the 10%).
 
