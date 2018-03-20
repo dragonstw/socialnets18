@@ -20,7 +20,7 @@ Spring Semester 2018
 
 ### When & Where
 * T 8:00 - 10:00am | Lecture NB111
-* Th 8:00 - 12:00pm | Lab NB111
+* Th 8:30 - 12:30pm | Lab NB111
 
 Office Hours:
 * By appointment (contact via [Slack message](https://aaititsc.slack.com/messages) or e-mail)
@@ -45,15 +45,15 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
  
 | # | Topic | Concepts | Reading | Activity | Materials | Notes |
 | --- | --- | -------- | ------- | -------- | --------- | ----- |
-| 0 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |
-| 1 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search | E&K 2.1-2.4 | [0:Setup](assignments/assignment0.md) | [slides](resources/02_GraphTheory.pptx) |  |
-| 2 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties, centrality, betweenness | E&K 3.1-3.6 | Download, visualize, calculate on a social network | [slides](resources/notavailable.md) |  |
-| 3 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
-| 4 | Community | clustering, community structure, modularity, overlapping communities |  | Detect communities in real-life networks | [slides](resources/notavailable.md) |  |
-| 5 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
-| 6 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
-| 7 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
-| 8 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
+| 1 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |
+| 2 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search | E&K 2.1-2.4 | [0:Setup](assignments/assignment0.md) | [slides](resources/02_GraphTheory.pptx) |  |
+| 3 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties | E&K 3.1-3.6 | Download, visualize, calculate on a social network | [slides](resources/03_NetworkStructure.pptx) |  |
+| 4 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
+| 5 | Community | clustering, community structure, modularity, overlapping communities |  | Detect communities in real-life networks | [slides](resources/notavailable.md) |  |
+| 6 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
+| 7 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
+| 8 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
+| 9 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
 
 ## Communications
 * You should sign up for the [**AAIT ITSC Slack group**](https://aaititsc.slack.com/) (I'll send an invite) for communication with the professor and with other students.
@@ -62,14 +62,14 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 
 ## Course Policies
 ### Course Grade
-* 50% Lab Activities 
-* 10% Midterm Exam
+* 40% Lab Activities 
+* 20% Midterm Exam & Quizzes
 * 30% Final exam
-* 10% Participation (attendance, interaction in class, knowledge quizzes)
+* 10% Participation (attendance, interaction in class)
 
 For assigned Lab Activities, two things should be mentioned:
 * All assignments must be turned in by the due date. Students who leave _any one assignment_ unfinished at the and of the class will receive an `Fx` score for the whole course.
-* Youcan drop one of your assignment grades (i.e., it will not count toward your final score).
+* You can drop one of your assignment grades (i.e., it will not count toward your final score).
 
 Letter grades are given at 5-point intervals:
 * A+       90-100
