@@ -11,7 +11,7 @@ Please enter your full name: henok solomon
  58334 ,
  49346 .
  36412 of
- 28853 and
+ 28853 and 
  26158 to
  23195 a
  21337 in
