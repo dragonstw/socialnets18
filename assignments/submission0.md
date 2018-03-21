@@ -1,9 +1,9 @@
->>> 
-Please enter your full name: Bekalu Ersubalew
-2c20820064b1090c9803b98c24124cbc68a2290ba030860c20220010246497a4
+ 
+Please enter your full name: Tinsae Getachew
+9106802d28027f000078019140082215409428209054e884504c4c2a02015242
 -----------------------------
-     ###0 bekalu
-     ###0 ersubalew
+     0 tinsae
+     0 getachew
 -----------------------------
  69971 the
  58334 ,
@@ -28,13 +28,13 @@ Please enter your full name: Bekalu Ersubalew
      . 
      . 
      . 
-     #1 no-driving
-     #1 buffs
-     #1 carbohydrate
-     #1 prodigall
-     #1 bombarding
-     #1 cut-to-a-familiar-pattern
-     #1 roars
+     1 no-driving
+     1 buffs
+     1 carbohydrate
+     1 prodigall
+     1 bombarding
+     1 cut-to-a-familiar-pattern
+     1 roars
      1 decorous
      1 1911-1912
      1 xenon
@@ -46,9 +46,9 @@ Please enter your full name: Bekalu Ersubalew
      1 mosaics
      1 northerly
      1 jawbone
-     0 bekalu
-     0 ersubalew
+     0 tinsae
+     0 getachew
 -----------------------------
 Using Python version 2.7.8
 Using nltk version 3.2.5
->>> 
+>>>
