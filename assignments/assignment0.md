@@ -15,8 +15,10 @@ using in this class.
 	lets you install specific python packages for a particular
 	project, without adding those packages to the machine you're
 	working on.
+
 	b. [ipython](http://ipython.org/) - an interactive command line, a
 	tad nicer than the default python interpreter.
+
 	c. [jupyter notebook](http://jupyter.readthedocs.org/en/latest/install.html) - 
 	a very neat web-based python interpreter that allows you to
 	interleave markdown and LaTeX equations with runnable Python code.
@@ -26,8 +28,10 @@ using in this class.
    
    a. Make sure you have a `github.com` account, and have permissions to
    push and pull from your class's repository `dragonstw/socialnets18`.
+
    b. Clone the class repository and set up any necessary git global
    variables.
+
    c. Create a `develop-<yourname><fathersname>` branch off of master via `git
    checkout -b develop-<yourname><fathersname>`
 
