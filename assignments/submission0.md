@@ -1,16 +1,17 @@
-
-66418250ac128008100160040016803280004244400084852680100100440404
+Please enter your full name: alexander teklemariam
+48121813ee0e193bd9f27731f14460613167087801a6fa1c468aa810ce11c09d
 -----------------------------
-   #  0 leulsolomon
+     0 <teklemariam
+    45 <alexander
 -----------------------------
-## 69971 the
-## 58334 ,
-## 49346 .
- 36412 of
+ 69971 the
+ 58334 ,
+ 49346 .
+# 36412 of
  28853 and
- 26158 to
+ ##26158 to
  23195 a
- 21337 in
+## 21337 in
  10594 that
  10109 is
   9815 was
@@ -27,9 +28,9 @@
      . 
      . 
      1 ehlers
-     1 no-driving
-     1 buffs
-     1 carbohydrate
+     *1 no-driving
+     *1 buffs
+     *1 carbohydrate
      1 prodigall
      1 bombarding
      1 cut-to-a-familiar-pattern
@@ -45,7 +46,7 @@
      1 mosaics
      1 northerly
      1 jawbone
-   >  0 leulsolomon
+     0 teklemariam
 -----------------------------
 Using Python version 2.7.8
 Using nltk version 3.2.5
