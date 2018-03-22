@@ -1,7 +1,8 @@
 # Assignment 1: Your Facebook Network
 We're trying to learn how to analyze social networks. Rather than just learn about theory, we'll try to do some actual analysis on our own, real (online) social network! So in this assignment, you will download data corresponding to your Facebook account, then visualize it and calculate some of the metrics we've learned about.
 
-You should [rebase your branch](resources/using_git.md) before continuing, so that you have the up-to-date resources (e.g., [assignments/fb.py](assignments/fb.py)).
+You should [rebase your branch](resources/using_git.md) before continuing, so that you have the up-to-date resources.
+<!-- (e.g., [assignments/fb.py](assignments/fb.py)). -->
 
 ## Step 1: Download your Facebook data
 Because Facebook has upped its security, public network data from Facebook is not as easy to access as it used to be (circa 2014). Thus, official means of accessing the network data are not working. Some methods will allow you to get your own friend lists, but not be able to get your friends' friends (path=2). Others won't work at all.
