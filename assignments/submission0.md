@@ -1,6 +1,8 @@
 # __Output of test_setup.py__
+
+###python test_setup.py 
+
 ```
-python test_setup.py 
 Please enter your full name: sophonias bekele
 6100a7790402228020b2342409024a1b2486488900d480f74413a80624c1530a
 -----------------------------
