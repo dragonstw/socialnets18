@@ -1,7 +1,7 @@
 # Assignment 1: Your Facebook Network
 We're trying to learn how to analyze social networks. Rather than just learn about theory, we'll try to do some actual analysis on our own, real (online) social network! So in this assignment, you will download data corresponding to your Facebook account, then visualize it and calculate some of the metrics we've learned about.
 
-You should [rebase your branch](resources/using_git.md) before continuing, so that you have the up-to-date resources.
+You should [rebase your branch](../resources/using_git.md) before continuing, so that you have the up-to-date resources.
 <!-- (e.g., [assignments/fb.py](assignments/fb.py)). -->
 
 ## Step 1: Download your Facebook data
