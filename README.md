@@ -35,8 +35,11 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 
 ### Textbook & Tools
 * Required: D. Easley, J. Kleinberg. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book). Cambridge University Press, 2010. 
-    - The whole book is avilable online.
+    - The whole book is available online.
     - Referred to in the schedule below as E&K
+* Optional: M. O. Jackson, [Social and Economic Networks.](https://archive.org/download/SocialAndEconomicNetworksMatthewO.Jackson/Social%20and%20Economic%20Networks%20-%20Matthew%20O.%20Jackson.pdf). Princeton University Press, 2008.
+    - This is a bit more technical than E&K, containing lots of good math definitions
+    - Referred to in the schedule below as MOJ
 * [Gephi](http://gephi.org/) is a tool for visualizing and manipulating graphs that we will use in our assignments.
 * [NetLogo](http://www.ladamic.com/netlearn) is a tool that can be used for modeling & simulating networks.
 
