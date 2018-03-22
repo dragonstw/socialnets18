@@ -1,11 +1,9 @@
-#submission 0
-
-```python test_setup.py 
-Please enter your full name: henok solomon
-4e6530423893481490c010200092801039240017948104441648100520061314
+>>> 
+Please enter your full name: Feysel Meftuh
+0148428406020888010929a19801800470040b3120814000c32dc02519401094
 -----------------------------
-     0 henok
-     2 solomon
+     0 feysel
+     0 meftuh
 -----------------------------
  69971 the
  58334 ,
@@ -30,8 +28,6 @@ Please enter your full name: henok solomon
      . 
      . 
      . 
-     1 lubricated
-     1 ehlers
      1 no-driving
      1 buffs
      1 carbohydrate
@@ -45,11 +41,14 @@ Please enter your full name: henok solomon
      1 digressions
      1 4.21
      1 dollarette
+     1 fusty
      1 pigen
      1 mosaics
      1 northerly
      1 jawbone
-     0 henok
+     0 meftuh
+     0 feysel
 -----------------------------
-Using Python version 2.7.12
-Using nltk version 3.2.5```
+Using Python version 2.7.8
+Using nltk version 3.2.5
+>>> 
