@@ -19,7 +19,7 @@ Spring Semester 2018
 * Office: PB104 Pharmacy Campus
 
 ### When & Where
-* T 8:00 - 10:00am | Lecture NB111
+* M 8:00 - 10:00am | Lecture NB111 | (Originally T 8:00 - 10:00am)
 * Th 8:30 - 12:30pm | Lab NB111
 
 Office Hours:
@@ -50,9 +50,9 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 | --- | --- | -------- | ------- | -------- | --------- | ----- |
 | 1 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |
 | 2 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search | E&K 2.1-2.4 | [0:Setup](assignments/assignment0.md) | [slides](resources/02_GraphTheory.pptx) |  |
-| 3 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties | E&K 3.1-3.6 | [1:Facebook](assignments/assignment1.md) Download, visualize, calculate metrics | [slides a](resources/03_NetworkStructure.pptx), [slides b](resources/03b_NodeLevelMetrics.pptx) | |
-| 4 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) | Assignment 1 due 29th Mar |
-| 5 | Community | clustering, community structure, modularity, overlapping communities |  | Detect communities in real-life networks | [slides](resources/notavailable.md) |  |
+| 3 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties | E&K 3.1-3.5 | [1:Facebook](assignments/assignment1.md) Download, visualize, calculate metrics | [slides a](resources/03_NetworkStructure.pptx), [slides b](resources/03b_NodeLevelMetrics.pptx) | |
+| 4 | Community | clustering, community structure, modularity, overlapping communities | E&K 3.6, MOJ 13.2 | Detect communities in real-life networks | [slides](resources/04_Communities.pptx) |  |
+| 5 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) | Assignment 1 due 29th Mar |
 | 6 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
 | 7 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
 | 8 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
