@@ -36,4 +36,6 @@ is the principle behind google search. It tell us what how often we would reach 
 we follow the link non randomly from the node. Connected components, tells us the number of connected 
 components in the network. Avg. clustering coefficient, It tells us how well the nodes are clustered
 i.e. if how well each node is enbembeded by its neigbors. Average path, it tells us how far 
-apart each node is to each other in average.
+apart each node is to each other in average. I chose to present my network the way I did
+because I thought it was aestaticly pleasing and it cleary showed the nodes and their relationship
+better than the default.
