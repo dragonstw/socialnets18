@@ -16,9 +16,9 @@ The above statistics results and more help me in calculating the answers i give 
 
 
 ## Without Label
-![SVG_image](/home/soph/Documents/socialnets/socialnets18/assignments/sophonias_bekele1.svg)
+![SVG_image](sophonias_bekele1.svg)
 ## with label
-![SVG_image](/home/soph/Documents/socialnets/socialnets18/assignments/sophonias_bekele.svg)
+![SVG_image](sophonias_bekele.svg)
 
 # Discussion
 
