@@ -15,4 +15,4 @@
 =======
 
 
-![Alt text](../Facebook_data.svg)
+![Alt text](socialnets18/assignments/Facebook_data.svg)
