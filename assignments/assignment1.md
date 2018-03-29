@@ -70,7 +70,7 @@ On each of the follow up questions, the options are: {`node degree`, `average no
 
 
 ## Step 4: Lab writeup
-Write a short but structured lab report, similar to how an extended abstract might be written (~500-2000 total words). Create an `assignments/assignment1.md` file and commit it locally as soon as you finish. Then, `git push origin develop-<name><fathersname>` by the deadline. Include an **Introduction** of the lab, **Methods** used to get analysis **Results**, and **Discussion**.
+Write a short but structured lab report, similar to how an extended abstract might be written (~500-2000 total words). Create an `assignments/submission1.md` file and commit it locally as soon as you finish. Then, `git push origin develop-<name><fathersname>` by the deadline. Include an **Introduction** of the lab, **Methods** used to get analysis **Results**, and **Discussion**.
 
 * In **Introduction**, describe the main point -- why did we do this lab?
 * In **Methods**, _summarize_ the process of producing the results. Were there any particularly tricky steps?
