@@ -32,3 +32,8 @@ Q5 'Average Path Length' 2.57
 Q5B I am not the shortest link b/c Clustering Coefficient is closer to zero
 
 Q6 713
+
+============
+Discussion
+==========================
+To finalize all node degrees represents my friends and the edges of their connections and Counting the node will give all of my friends number and finding someone with the maximum node gives most common friend. The clustering coeficinet is the number which tells how close my friends are. And Finally the average degree shows that how much my frends have friends.
