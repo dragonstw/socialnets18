@@ -23,7 +23,7 @@ One of the intersting datas that I have found is the network diameter which in t
 shows me my least related friends. In my case its 9. My guess is one of this guys is a person
 which I accepted his/her friendship without knowing them at all. 
 
-![Friend r/nships](C:\Users\Nahom\socialnets18\assignments\nahom_asnake.svg)
+![Friend r/nships](C:\Users\Nahom\socialnets18\assignments\nahom_svg.svg)
   
 -- Discussion --
 Average degree, since the graph is about the connection between my friends. It tells me how many
