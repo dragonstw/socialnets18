@@ -24,7 +24,7 @@ shows me my least related friends. In my case its 9. My guess is one of this guy
 which I accepted his/her friendship without knowing them at all. 
 
 ![Friend r/nships](C:\Users\Nahom\socialnets18\assignments\nahom_asnake.svg)
-
+  
 -- Discussion --
 Average degree, since the graph is about the connection between my friends. It tells me how many
 friends that each of my friends have in average. Network distance represents the longest path in the 
