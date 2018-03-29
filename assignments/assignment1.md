@@ -58,6 +58,7 @@ After i was done with downloading the graphml file using lost circles. i start e
 		(nodes - 1) = 564  we substract 1 from the nodes to remove our node from the count
 	
 ![Network](C:\myGit\project\socialnets18\assignments\yohannes.svg)
+![fdas](https://github.com/dragonstw/socialnets18/blob/develop-yohannes0842/assignments/yohannes.svg)
 
 ### Discussion
 
