@@ -21,9 +21,10 @@ Download this data and use your tool of choice to partition the graph into your 
 
 Then, write a writeup of what you find, answering (at least) the following questions:
 * **Methods**: What tools did you use to partition the graphs? How did you prepare your data (if at all)? What algorithm did you choose? Why? How did this deal with a directed graph data?
-* **Results**: What is the distribution (i.e., table or plot) of community sizes in the algorithm-communities vs. ground-truth-communities? Are there other statistics that characterize the two types of communities? Look at the 1-2 largest algorithm-communities vs. ground-truth-communities, what portion of the nodes overlap? 
+* **Results**: What is the distribution (i.e., table or plot\*) of community sizes in the algorithm-communities vs. ground-truth-communities? Are there other statistics that characterize the two types of communities? Look at the 1-2 largest algorithm-communities vs. ground-truth-communities, what portion of the nodes overlap? 
 * **Discussion**: Compare and contrast the community detection and the ground-truth communities. Are they capturing the same aspects of the network? Is this what you would expect, given where the data came from and the algorithm that you used?
 
+\*For this assignment, you can submit a plot as a `.png` file or other format, as long as it shows up satisfactorily in Github, AND the overall size of ALL your supporting files is less than 1MB.
 
 
 ## Part 2: YouTube social network
