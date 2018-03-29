@@ -15,4 +15,4 @@
 =======
 
 
-![Alt text](C:\Users\TinsaeG\socialnets18\assignments\Facebook_data.svg)
+![Alt text](../Facebook_data.svg)
