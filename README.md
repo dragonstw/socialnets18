@@ -45,7 +45,13 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 
 
 ## Schedule and Assignments
- 
+The following dates are holidays or the classes are cancelled for other reasons:
+* 5th Apr
+* 9th Apr
+* 17 May
+* 21 May
+* 14 June
+
 | # | Topic | Concepts | Reading | Activity | Materials | Notes |
 | --- | --- | -------- | ------- | -------- | --------- | ----- |
 | 1 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |

@@ -44,9 +44,9 @@ When you clone a repository, by default you start out on the `master` branch.  Y
 
 Create your own branch, which you will use for the rest of this class.
 
-    git checkout -b develop-<username>
+    git checkout -b develop-<firstnamefathersname>
 
-Of course, you replace `<username>` with your own github username.
+Of course, you replace `<firstnamefathersname>` with your own github username.
 
 This means that you now have a **local** branch (i.e., on your computer).  Any changes you make now will not affect anyone else.
 
@@ -73,23 +73,26 @@ The `-m` argument means that you're going to put in a message for the logs.  A g
 (Later on, if you have made modifications to files, you can use `git commit -am '...'` and the `-a` part will check in your modifications without you having to type `git add` for each of them.)
 
 ## Push the file
-So now you have your file in your **local** branch called `develop-<username>`, but no one else can see it.  You can keep it this way until you want to actually submit your assignment.
+So now you have your file in your **local** branch called `develop-<firstnamefathersname>`, but no one else can see it.  You can keep it this way until you want to actually submit your assignment.
 
 When you ACTUALLY want to submit so that the instructors (and everyone else) can see it, you do:
 
-    git push origin develop-<username>
+    git push origin develop-<firstnamefathersname>
 
 This creates (or for future updates, modifies) a **remote** branch on `repo.cslu.ohsu.edu`, and now anybody who is working with the same repository can see it -- including you, from another machine!
 
 ## Rebasing
-Over the course of the class, I will be updating the `master` branch, while you will be working on your `develop-<username>` branch.  To keep these as much in sync as possible, you can use two strategies: remove your branch and re-create it with a new name (but be aware, you may lose all your work), or _rebase_.
+Over the course of the class, I will be updating the `master` branch, while you will be working on your `develop-<firstnamefathersname>` branch.  To keep these as much in sync as possible, you can use two strategies: remove your branch and re-create it with a new name (but be aware, you may lose all your work), or _rebase_.
 
 First, commit any changes in your own branch.  Then, rebasing normally looks something like this:
 ```
 git checkout master
 git pull
-git checkout develop-<username>
+git checkout develop-<firstnamefathersname>
 git rebase origin/master
 ```
 
-Now you should have the up-to-date `master` branch, with any changes you've made in your branch re-played on top of it!
+Now you should have the up-to-date `master` branch, with any changes you've made in your branch re-played on top of it! If you want to check in your changes now, though, the copy of your branch on the remote host is going to be confused. So you have to push with a "force" `-f` flag:
+```
+git push origin develop-<firstnamefathersname> -f
+```
