@@ -16,7 +16,7 @@ To get started from the start i downloaded and added lost circles which is a chr
 Results
 ---------
 
-![Alt text](C:\Users\test\Desktop\socialnets18\socialnets18\assignments\newfacebook.svg)  
+![Alt text](newfacebook.svg)  
 
 
 Node Degree = 179
