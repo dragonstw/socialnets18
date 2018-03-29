@@ -17,6 +17,7 @@ Results
 ---------
 
 ![Alt text](C:\Users\test\Desktop\socialnets18\socialnets18\assignments\newfacebook.svg)  
+![Alt text](socialnets18\assignments\newfacebook.svg)
 
 Node Degree = 179
 
