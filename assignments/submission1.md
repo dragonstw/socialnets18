@@ -22,12 +22,18 @@ The above statistics results and more help me in calculating the answers i give 
 
 # Discussion
 
-The Average Degree of my data is 13.672 means average of all the degree 
+* The Average Degree of my data is 13.672 means average of all the degree 
 
-The network Diameter is 6 and means that shortest path to any node in the network is six
+* The network Diameter is 6 and means that shortest path to any node in the network is six
 
-connectance how my friends are connected
+* Connectance how my friends are connected
 
-Node help me find mutual friends
+* Node Degree help me find mutual friends
 
-Nodes help me to find my friends number
+* Nodes help me to find my friends number
+
+* connected component of an undirected graph is a subgraph in which any two vertices are connected to  each other by paths, and which is connected to no additional vertices in the supergraph.
+
+* Image without label is the svg format without any url and other data
+
+* Image with label is the svg format with every data
