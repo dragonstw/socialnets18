@@ -1,7 +1,7 @@
-# introduction
+# Introduction
 - This lab is all about analysing the statistics of our facebook account and see what our friends have. For this Assignement we Use Our Facebook account and it was very awsome to see all my friends and what we can do with gephy like gernerate our facebook Statsics and others. in doing this assingment we know more on how we can calculate all the statics we learned in class.
  
-# methods
+# Methods
 
 - The method I use to calclulate the 1st quetion is 'CONNECTANCE'. here is the forumula which i use:
 	{[(edge*2)/Node]/Node-1} = 0.090
@@ -34,6 +34,8 @@ Q5B I am not the shortest link b/c Clustering Coefficient is closer to zero
 Q6 713
 
 ============
+
 Discussion
+
 ==========================
 To finalize all node degrees represents my friends and the edges of their connections and Counting the node will give all of my friends number and finding someone with the maximum node gives most common friend. The clustering coeficinet is the number which tells how close my friends are. And Finally the average degree shows that how much my frends have friends.
