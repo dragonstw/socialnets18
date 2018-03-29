@@ -16,7 +16,7 @@
 
 Results
 ===============
-![Alt text](socialnets18/assignments/Facebook_data.svg)
+![Alt text](Facebook_data.svg)
 
 
 Q1 the answer is 'connectedness'  calculated by {[(edge*2)/Node]/Node-1} = 0.090
@@ -24,7 +24,6 @@ Q1 the answer is 'connectedness'  calculated by {[(edge*2)/Node]/Node-1} = 0.090
 Q2 'Degree' [253 name: Michael Moges].
 
 Q3'Aberage Degree' 64.199
-
 
 Q4'Clustering coefficient' 0.45
 
