@@ -5,6 +5,6 @@
 #Result
 The result i saw was interested that i dont really know how well i was connected with my friends and how well they were connected to each other, i also see whom of my friends are well connected to others of my freinds. The concept is so far great and as we get deeper it might be very interested. My gephi result is attached to this text in a picture format to highlight my frends connectivity.
 ##Image
-(C:\Users\Administrator\Desktop\Leul's network.svg)
+![pic](C:\Users\Student\Documents\GitHub\socialnets18\assignments\leul's FB nets.svg)
 #Discussion
 i use the node degree to find the most freind in common with me who also share many of my friends. i use average node degree to know how many freinds do my friends have. using clustering coefficient i know how close or far my freinds are. edge weight can tell me how well my freinds are connected eachother.
