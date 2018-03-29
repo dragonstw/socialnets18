@@ -16,7 +16,7 @@ videos related to that.
 
                                                   RESULTS
 
-![Alt text](C:\Users\mohammed\Desktop\socialNets\socialnets18\assignments\results\facebook.svg)
+![Alt text](facebook.svg)
 
 1. Average path length
 2. Node Degree
