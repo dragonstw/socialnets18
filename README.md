@@ -56,13 +56,14 @@ The following dates are holidays or the classes are cancelled for other reasons:
 | --- | --- | -------- | ------- | -------- | --------- | ----- |
 | 1 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |
 | 2 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search | E&K 2.1-2.4 | [0:Setup](assignments/assignment0.md) | [slides](resources/02_GraphTheory.pptx) |  |
-| 3 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties | E&K 3.1-3.5 | [1:Facebook](assignments/assignment1.md) Download, visualize, calculate metrics | [slides a](resources/03_NetworkStructure.pptx), [slides b](resources/03b_NodeLevelMetrics.pptx) | |
+| 3 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties | E&K 3.1-3.5 | [1:Facebook](assignments/assignment1.md) Download, visualize, calculate metrics | [slides a](resources/03_NetworkStructure.pptx), [slides b](resources/03b_NodeLevelMetrics.pptx) | Assignment 1 due 29th Mar |
 | 4 | Community | clustering, community structure, modularity, overlapping communities | E&K 3.6, MOJ 13.2 | [2:Community detection](assignments/assignment2.md) <br> in real-life networks | [slides](resources/04_Communities.pptx) |  |
-| 5 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) | Assignment 1 due 29th Mar |
-| 6 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
-| 7 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
-| 8 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
-| 9 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
+| 5 | Community Detection | hierarchical clustering, stochastic block models  | MOJ 13.2 | | [slides](resources/notavailable.md) | Assignment 2 due 12th Apr |
+| 6 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
+| 7 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
+| 8 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
+| 9 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
+| 10 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
 
 ## Communications
 * You should sign up for the [**AAIT ITSC Slack group**](https://aaititsc.slack.com/) (I'll send an invite) for communication with the professor and with other students.

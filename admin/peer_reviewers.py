@@ -2,7 +2,7 @@ import os
 import numpy as np
 
 admin_dir = 'admin'
-work_dir = 'hw'
+work_dir = 'assignments'
 grades_dir = 'grades'
 
 def assign_reviewers(ls, tag=None):

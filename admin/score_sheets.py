@@ -57,21 +57,21 @@ if __name__=="__main__":
         scorefile = os.path.join(
             grades_dir, "{}.{}.{}".format(opts.hw_tag, student, template_name))
 
-        # Look for peer reviews
-        if len(grades_for[student]) != 2:
-            print "WARNING: there are {} reviews for {}".format(
-                len(grades_for[student]), student)
-        peer1, peer2 = "", ""
-        try:
-            with open(os.path.join(
-                    grades_dir, grades_for[student][0]), 'rb') as fpeer1:
-                peer1 = fpeer1.read()
-            with open(os.path.join(
-                    grades_dir, grades_for[student][1]), 'rb') as fpeer2:
-                peer2 = fpeer2.read()
-        except:
-            pass
+        # # Look for peer reviews
+        # if len(grades_for[student]) != 2:
+        #     print "WARNING: there are {} reviews for {}".format(
+        #         len(grades_for[student]), student)
+        # peer1, peer2 = "", ""
+        # try:
+        #     with open(os.path.join(
+        #             grades_dir, grades_for[student][0]), 'rb') as fpeer1:
+        #         peer1 = fpeer1.read()
+        #     with open(os.path.join(
+        #             grades_dir, grades_for[student][1]), 'rb') as fpeer2:
+        #         peer2 = fpeer2.read()
+        # except:
+        #     pass
 
         # Write altogether
         with open(scorefile, 'wb') as scoref:
-            scoref.write(template.format(rubric, peer1, peer2))
+            scoref.write(template.format(rubric))
