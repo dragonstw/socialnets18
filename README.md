@@ -59,11 +59,12 @@ The following dates are holidays or the classes are cancelled for other reasons:
 | 5 | Community Detection | hierarchical clustering, stochastic block models  | MOJ 13.2 | | [slides](resources/05_CommunityDetection.pptx) | Assignment 2 due 12th Apr |
 | 6 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
 | - | **_Midterm_** |  |  |  |  |  |
-| 7 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
-| 8 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
-| 9 | Ethics in Social Network Analysis |  |  |  |
-| 10 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
-| 11 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
+| 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure, Schelling model | E&K 4.1-4.6 |  | [slides](resources/notavailable.md) |  |
+| 8 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
+| 9 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
+| 10 | Ethics in Social Network Analysis |  |  |  |
+| 11 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
+| 12 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
 | - | **_Final_** |  |  |  |  |  |
 
 
