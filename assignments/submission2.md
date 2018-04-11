@@ -23,7 +23,16 @@ When it comes to community distribution in the ground-truth-algorithm, it seems 
 
 ### Discussion
 
-The two algorithms actually have different perspectives. Since what they consider to get a node into a community is different they show different statistics. And this is to be expected when dealing with data with different way of organizing the contents of the set it has.   
+The two algorithms actually have different perspectives. Since what they consider to put a node into a community is different they show different statistics. And this is to be expected when dealing with data with different way of organizing the contents of the set it has.   
 
 
 ![Graph Image](communityEU.png)
+
+
+## Part 2: YouTube social network
+
+This part of the assignment, I couldn't do because importing the data wasn't working properly. When I imported the data out of the total 1134890 nodes only 39841 were imported and mapped by the edges.
+
+![Graph Image](youtube.png)
+
+I have attached this image so that you can see that I have run the same algorithm as I did for the first section. But since the total amount of data couldn't be imported , I didn't do this section.
