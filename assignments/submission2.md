@@ -24,3 +24,6 @@ When it comes to community distribution in the ground-truth-algorithm, it seems 
 ### Discussion
 
 The two algorithms actually have different perspectives. Since what they consider to get a node into a community is different they show different statistics. And this is to be expected when dealing with data with different way of organizing the contents of the set it has.   
+
+
+![Graph Image](communityEU.png)
