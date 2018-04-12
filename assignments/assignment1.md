@@ -14,7 +14,7 @@ This lab help to understand the connection or link between my Facebook friends i
 4. Clustering Cofficient = 0.444
 5. Characteristic (average) path length = 2.979
 
-![Facebook Image](C:\Users\YARED\Desktop\newnew.svg)
+![Facebook Image](newnew.svg)
 
 ## Discussion
 1. Connectance descibes what percent of my Facebook friends are connected (through any number of links) to most of my other Facebook friends
