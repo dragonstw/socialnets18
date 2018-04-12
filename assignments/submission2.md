@@ -34,11 +34,11 @@ Graph of Algorithm-community
 Community detection is a fundamental task of network science that seeks to describe the large-scale structure of a network by dividing its nodes into communities, based only on the pattern of links among those nodes. And we identify networks with explicitly labeled functional communities to which we refer as ground-truth communities. They are detecting different aspects of the network. It is as i expected. 
 
 ## Part 2: YouTube social network
-###Remark
+### Remark
 In the part 2 of the assignment i got in to a problem when tring to get the graph in to gephi. As the data is a much bigger data my machine was not able to load it.First i was able to load the youtube.top5000.cmty data in to gephi but then when i tried to import the youtube.ungraph data it was not able to load it and open it in gephi. So for that reason i could not get the right modularity class.   
 ### Methods
 ...
-###Result
+### Results
 ...
 ### Discussion
 ... 
