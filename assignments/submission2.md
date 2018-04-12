@@ -26,7 +26,7 @@ Finaly when we see the diagram of both,since they there is a stronger communicat
 
 ## Part 2: YouTube social network
 
-###
+### Remark
 for this asignment i used gephi but since the data was to large it exceeded the 5.6 GB allowd memory for the application so i tried different options like increasing the resolution factor and disabling the randomize feauture but i was unable to calculate the modularity then i switched to Amazon data set but the same thing happens when i tried to calculate the modularity
 
 ### Methods
