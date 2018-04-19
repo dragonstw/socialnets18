@@ -1,0 +1,46 @@
+# Assignment 2: Detecting Communites
+
+Bethelhem Hailegebreil
+
+
+
+### Introduction
+
+
+The following write-up concludes on the results and steps on how I Detected the Communities using different social networks. The Email-EU-core network and the YouTube social network which I got from the assignment given to us on GitHub. 
+
+#### Part 1: Email-EU-core network
+
+### Method
+As me being familiar with Gephi in the previous assignments, it’s the tool I used to partition the graphs on the assignment given on how to detect communities. The tool uses the Louvain algorithm to partition the graph and extract the communities from the network given to us.This algorithm optimizes possibly the best portioning of the nodes in the network. By the time the algorithm is done performing its job, different communities got to get differentiated by colors and how well they are connected to eachother.
+
+### Results
+From the results seen by running the modularity after differentiating the communities is as follows
+Node: 1005
+Edges: 25571
+Average Degree = 25.444
+Average Weighted Degree = 25.444
+Network Diameter = 7
+Modularity = 0.415
+Average Clustering Coefficient = 0.372
+Average Path Length = 2.653
+  
+The nodes that overlap between the two communities is the average clustering coefficient which is 0.372
+
+### Discussion 
+Most part of the ground-truth-communities don’t differ for the algorithm-communities applied by the modularity a number of 26 as seen in the data laboratory section. The algorithm-communities depends on how well they are connected than the ground-truth-communities to detect the communities as it is the whole point of the assignment.
+
+![alt text](finalassign2D.svg) 
+Ground-Truth-Communites
+
+![alt text](finalassign2M.svg) 
+Algorithm-Communites
+
+### Part 2: YouTube Social Network
+
+#### Remark
+This section would have been about differentiating communites on a Social network file given to us of YouTube but unfortunately, the file is too big as Gephi being the tool I used. I was not able to do this part.
+
+
+##### Conclusion
+I had many obstacles for doing this assignment, as my computer stopped functioning, I wasn't able to submit the assignment on time. The assignment is interesting as it showed me how connectancy and modularity with different functionality works and plotted it on a graph. 
