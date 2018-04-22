@@ -35,7 +35,7 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 * Required: D. Easley, J. Kleinberg. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book). Cambridge University Press, 2010. 
     - The whole book is available online.
     - Referred to in the schedule below as E&K
-* Optional: M. O. Jackson, [Social and Economic Networks.](https://archive.org/download/SocialAndEconomicNetworksMatthewO.Jackson/Social%20and%20Economic%20Networks%20-%20Matthew%20O.%20Jackson.pdf). Princeton University Press, 2008.
+* Optional: M. O. Jackson, [Social and Economic Networks.](https://www.stanford.edu/~jacksonm/netbook.pdf). Princeton University Press, 2008.
     - This is a bit more technical than E&K, containing lots of good math definitions
     - Referred to in the schedule below as MOJ
 * [Gephi](http://gephi.org/) is a tool for visualizing and manipulating graphs that we will use in our assignments.
@@ -58,7 +58,7 @@ The following dates are holidays or the classes are cancelled for other reasons:
 | 4 | Communities | clustering, community structure, modularity | E&K 3.6, MOJ 13.2 | [2:Community detection](assignments/assignment2.md) <br> in real-life networks | [slides](resources/04_Communities.pptx) |  |
 | 5 | Community Detection | hierarchical clustering, stochastic block models  | MOJ 13.2 | | [slides](resources/05_CommunityDetection.pptx) | Assignment 2 due 12th Apr |
 | 6 | Random Network Models | probability review, binomial distribution, Poisson (Erdos-Renyi) | MOJ 1.2.3, 4; E&K 20.1-20.2 | [3:Random Networks in NetLogo](assignments/assignment3.md) | [slides](resources/06_RandomGraphs.pptx) |  |
-| - | **_Midterm_** |  |  |  | [Review slides](resources/MidtermReview.pptx) | Exam on 23rd April |
+| - | **_Midterm_** |  |  |  | [Review slides](resources/MidtermReview.pptx) | Exam on 26th April |
 | 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure, Schelling model | E&K 4.1-4.6 |  | [slides](resources/notavailable.md) |  |
 | 8 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
 | 9 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |

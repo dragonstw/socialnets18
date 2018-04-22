@@ -1,4 +1,4 @@
-# AGGREGATED SCORE: /100
+# FINAL SCORE: /100
 Late penalty: 0%
 
 *******************

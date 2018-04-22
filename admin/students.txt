@@ -2,7 +2,6 @@ Alexander Teklemariam Tewolde
 Alula Tsegaye Hadera
 Bekalu Ersubalew Worku
 Beytula Kedir Ahmed
-Buruk Sahilu Aklilu
 Daniel Bedore Godebo
 Fikir Awoke Fantahun
 Henok Solomon Gebremariam
@@ -22,3 +21,7 @@ Feysel Fleftuh
 Endalkachew Ayalew
 Habteab Yohanes
 Bethelhem Hailegabriel
+Biruk Gebrekidan
+Geleta Firdissa Jebesa
+Mintesnot Melesse Weldemichael
+Daniel Moges Ayele

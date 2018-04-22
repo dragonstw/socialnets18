@@ -98,7 +98,7 @@ Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Center for C
 
 
 ## Due
-Thursday, 26th April, 2018 @ 8:30am.
+**Extended**: Monday, 30th April, 2018 @ 8:00am.
 
 ## Rubric: /100
 
