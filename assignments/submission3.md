@@ -63,7 +63,6 @@ end
 ### Results
 Clustering coefficient is 0.479333 Average-path-length is 5.764 clustering-coefficient-of-lattice is 0.5 and average-path-length-of-lattice is 6.6326 when on rewire-one version. Note: this all depends on the rewiring probablity.
 By default monitors only update on ticks unless the settings are set to other methods. This shows, there's a event listener attached to the monitors (the class) carrying out the activity done by the monitor. I discovered this when I set wrong values in the link monitor, it shows a java exeption error, issues with event handling.
-Discussion
 
 ### Discussion
 The primary reason why clustering coefficients change when nodes are rewired is because, nodes represent the persons in the network and clustering coefficient measure the possibility of one node being friends with someone across the neighbor. So, if the neighbor changes neighbor, the clustering coefficient will be a variable that changes according to the neighbors friends to numerically depict how all his friends are close to the one that the neighbor is connected with.
