@@ -23,6 +23,7 @@ turtles-own
 
 distance from other turtles is defined here as a turtle local variable
 The code that carries calculation for both distance and the path length is as found in this function..
+```
 to find-path-lengths
   ;; reset the distance list
   ask turtles
@@ -58,7 +59,7 @@ to find-path-lengths
   ]
 
 end
-
+```
 ### Results
 Clustering coefficient is 0.479333 Average-path-length is 5.764 clustering-coefficient-of-lattice is 0.5 and average-path-length-of-lattice is 6.6326 when on rewire-one version. Note: this all depends on the rewiring probablity.
 By default monitors only update on ticks unless the settings are set to other methods. This shows, there's a event listener attached to the monitors (the class) carrying out the activity done by the monitor. I discovered this when I set wrong values in the link monitor, it shows a java exeption error, issues with event handling.
