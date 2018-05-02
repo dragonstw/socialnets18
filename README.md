@@ -44,16 +44,15 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 
 ## Schedule and Assignments
 The following dates are holidays or the classes are cancelled for other reasons:
-* 5th Apr
-* 9th Apr
-* 17 May
-* 24 May
-* 14 June
+* 5th Apr & 9th Apr -- Fasika
+* 30th Apr & 3rd May -- GC class trip
+* 17 May & 24 May -- Instructor travel (Note: there will be class and guest lecture on 21 May)
+* 14 June -- Eid al-Fitr
 
 | # | Topic | Concepts | Reading | Activity | Materials | Notes |
 | --- | --- | -------- | ------- | -------- | --------- | ----- |
-| 1 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |
-| 2 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search | E&K 2.1-2.4 | [0:Setup](assignments/assignment0.md) | [slides](resources/02_GraphTheory.pptx) |  |
+| 1 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md)<br>git, python | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |
+| 2 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search | E&K 2.1-2.4 | | [slides](resources/02_GraphTheory.pptx) |  |
 | 3 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties | E&K 3.1-3.5 | [1:Facebook](assignments/assignment1.md) Download, visualize, calculate metrics | [slides a](resources/03_NetworkStructure.pptx), [slides b](resources/03b_NodeLevelMetrics.pptx) | Assignment 1 due 29th Mar |
 | 4 | Communities | clustering, community structure, modularity | E&K 3.6, MOJ 13.2 | [2:Community detection](assignments/assignment2.md) <br> in real-life networks | [slides](resources/04_Communities.pptx) |  |
 | 5 | Community Detection | hierarchical clustering, stochastic block models  | MOJ 13.2 | | [slides](resources/05_CommunityDetection.pptx) | Assignment 2 due 12th Apr |
@@ -65,7 +64,7 @@ The following dates are holidays or the classes are cancelled for other reasons:
 | 10 | Ethics in Social Network Analysis |  |  |  |
 | 11 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
 | 12 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
-| - | **_Final_** |  |  |  |  |  |
+| - | **_Final_** |  |  |  |  |  |  |
 
 
 ## Communications
