@@ -47,7 +47,7 @@ The following dates are holidays or the classes are cancelled for other reasons:
 * 5th Apr
 * 9th Apr
 * 17 May
-* 21 May
+* 24 May
 * 14 June
 
 | # | Topic | Concepts | Reading | Activity | Materials | Notes |
