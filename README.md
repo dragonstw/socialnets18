@@ -17,7 +17,7 @@ Spring Semester 2018
 Hat tip to Dr. Venkateswarlu Sunkari, who taught a previous version of this course at AAIT.
 
 ### When & Where
-* M 8:00 - 10:00am | Lecture NB111 | (Originally T 8:00 - 10:00am)
+* M 1:30pm - 3:30pm | Lecture NB111 | (Originally T 8:00 - 10:00am)
 * Th 8:30 - 12:30pm | Lab NB111
 
 Office Hours:
@@ -59,8 +59,8 @@ The following dates are holidays or the classes are cancelled for other reasons:
 | 5 | Community Detection | hierarchical clustering, stochastic block models  | MOJ 13.2 | | [slides](resources/05_CommunityDetection.pptx) | Assignment 2 due 12th Apr |
 | 6 | Random Network Models | probability review, binomial distribution, Poisson (Erdos-Renyi) | MOJ 1.2.3, 4; E&K 20.1-20.2 | [3:Random Networks in NetLogo](assignments/assignment3.md) | [slides](resources/06_RandomGraphs.pptx) |  |
 | - | **_Midterm_** |  |  |  | [Review slides](resources/MidtermReview.pptx) | Exam on 26th April |
-| 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure, Schelling model | E&K 4.1-4.6 |  | [slides](resources/notavailable.md) |  |
-| 8 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
+| 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure | E&K 4.1-4.4 |  | [slides](resources/notavailable.md) |  |
+| 8 | Growing graphs | small worlds, geographic networks, decentralized search | MOJ 5 | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
 | 9 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
 | 10 | Ethics in Social Network Analysis |  |  |  |
 | 11 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
@@ -76,7 +76,7 @@ The following dates are holidays or the classes are cancelled for other reasons:
 ## Course Policies
 ### Course Grade
 * 40% Lab Activities 
-* 20% Midterm Exam & Quizzes
+* 20% Midterm Exam
 * 30% Final exam
 * 10% Participation (attendance, interaction in class)
 
@@ -89,7 +89,7 @@ Letter grades are given at 5-point intervals:
 * A        83-90
 * A-       80-83
 * B+       75-80
-* B        68-80
+* B        68-75
 * B-       65-68
 * C+       60-65
 * C        50-60
@@ -125,7 +125,7 @@ How does this work with academic honesty and plagiarism?  On any graded assignme
 
 If you are essentially using someone else's idea (even having internalized and retyped/rewritten it), you must give attribution to the source (where it came from) and fully/explicitly describe it in words.
 
-If you utilize others' work without understanding it or without attribution, this will constitute *plagiarism* and you will immediately receive an **Fx** grade for the course.  You may also be censured by the university, with potential ramifications such as suspension or dismissal from your program.
+If you utilize others' work without understanding it or without attribution, this will constitute _plagiarism_. *UPDATE (2nd May):* By decision of the Discipline Committee, the first instance of plagiarism or copying will result in a score of 0 on the assignment or exam. The second infraction will be presented to the Discipline Committee again for a 1-year suspension from your program.
 
 Course participants are expected to maintain academic honesty in their course work. Participants should refrain from seeking past published solutions to any assignments. Literature and resources (including Internet resources) employed in fulfilling assignments must be cited, or they will be considered plagiarism as well.
 
