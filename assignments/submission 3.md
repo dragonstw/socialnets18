@@ -43,7 +43,7 @@ this list is populated with a distance from each node to every other node so the
 
 ### Results
 At the beggning it had a clustering coeficient of 0.5 , average-path-length of 6.633, and a diameter of 13. 
-![Small worlds](picture-with-model picture with rewire.png)
+![Small worlds]('picture-with-model picture with rewire.png')
 The plots are made by normalizing the reported data by the lattice. In our model at the begging of the model the values are as described above and these values are also
 recorded on the lattice when we called the setup procedure.  So the rewire one network properties shows us fraction-of-edge-rewired against the normalization of the three
 attributes(diameter...) as we hit the rewire one button the fraction-of-edges rewired will increase(x axis) and normalzation of the values varry in regard to the graph created . The normalization will always be one at the begginng because we are dividing it with the initial value when we setup the network as the current values change when we hit the rewire one button. And as for the rewire all button its against the rewiring probablity that we set so it wont change if we don't change it.
@@ -73,7 +73,7 @@ I ran the model with the default setting and also tweaking the num-nodes I also 
 I have changed the numofnodes several times and I have been able to observe the size of the network and how fast it grew one interesting fact is that the giant components composes of all nodes in a maximum of 10 connections pernode mostly less than 5 even though the edges randomly form as described in the documentation.By the time that the run is over, the clustering cooficient will be exactly one. And the connection pernode will be equal to the num-node. 
 
 
-##Conclusion
+## Conclusion
 In conclusion I have leaned a lot from this assignement and tried many models as well that are not required in the assignment. 
 
 
