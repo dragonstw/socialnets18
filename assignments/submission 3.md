@@ -3,6 +3,7 @@
 
 
 ## Introduction
+In this assignement I have went though the netlogo program and saw in detail of how things worked from our social analysis class, I have also been able to go though the netlogo program and have a deeper understanding of how the application worked by modifying the program and see the effects as I did. 
 ## Part 1: Small Worlds
 ### methods
 After reading the netlogo user manual and going through the examples including the commands and procedures, I experimented by altering the 
@@ -58,10 +59,10 @@ attributes(diameter...) as we hit the rewire one button the fraction-of-edges re
 Before I changed the tollerance, I imagined that a maximum of intollerance(similar wantedness) would result in the visualization completly separating the red agents from the blue agents and resulting in distinct grouping of the agents so as I increased the value of intollerance, similar grouping increased and when I reached 75 the result was a disctinct similarity grouping. I have also been working on tring to understand the code and how it's reflected on the model by tweaking some variables and procedures.I have changed the grid to 150 and tried playing with the neighbors as described on the hint what I did was I added the blue neigbors with the red neighbors subtracted from the 8 which gave me the resutls the amount of empty neighbors but this had a flow because it did not account for the once that were aligned with the grid which had only 5 possible neigbors.  
 
 
-## Results
+## #Results
 I have set the values as the book and rerun with the modified code but the results were not exaclty the same and mine count not finish the models because of the modified code.
 
-## Discussion
+### Discussion
 I found the model interesting in many ways, one thing is that in a case where each agent wants 30% same color neighbors the agents in average endup with a 70% same-color-neighbors so few individuals preference will lead to a significant segregation. And I also found even at a density of 99% its possible to keep all the population happy when the similar wantedness is set to less than or equal to 60% but even after that we can keep the unwanted population less than 10 percent all the way upto 80 percent. 
 
 ## Part 3: Giant Component
@@ -72,6 +73,8 @@ I ran the model with the default setting and also tweaking the num-nodes I also 
 I have changed the numofnodes several times and I have been able to observe the size of the network and how fast it grew one interesting fact is that the giant components composes of all nodes in a maximum of 10 connections pernode mostly less than 5 even though the edges randomly form as described in the documentation.By the time that the run is over, the clustering cooficient will be exactly one. And the connection pernode will be equal to the num-node. 
 
 
+##Conclusion
+In conclusion I have leaned a lot from this assignement and tried many models as well that are not required in the assignment. 
 
 
 
