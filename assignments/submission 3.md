@@ -43,7 +43,7 @@ this list is populated with a distance from each node to every other node so the
 
 ### Results
 At the beggning it had a clustering coeficient of 0.5 , average-path-length of 6.633, and a diameter of 13. 
-![Small-worlds](image2.png)
+![algo-communities](image2.png)
 The plots are made by normalizing the reported data by the lattice. In our model at the begging of the model the values are as described above and these values are also
 recorded on the lattice when we called the setup procedure.  So the rewire one network properties shows us fraction-of-edge-rewired against the normalization of the three
 attributes(diameter...) as we hit the rewire one button the fraction-of-edges rewired will increase(x axis) and normalzation of the values varry in regard to the graph created . The normalization will always be one at the begginng because we are dividing it with the initial value when we setup the network as the current values change when we hit the rewire one button. And as for the rewire all button its against the rewiring probablity that we set so it wont change if we don't change it.
@@ -59,7 +59,7 @@ attributes(diameter...) as we hit the rewire one button the fraction-of-edges re
 Before I changed the tollerance, I imagined that a maximum of intollerance(similar wantedness) would result in the visualization completly separating the red agents from the blue agents and resulting in distinct grouping of the agents so as I increased the value of intollerance, similar grouping increased and when I reached 75 the result was a disctinct similarity grouping. I have also been working on tring to understand the code and how it's reflected on the model by tweaking some variables and procedures.I have changed the grid to 150 and tried playing with the neighbors as described on the hint what I did was I added the blue neigbors with the red neighbors subtracted from the 8 which gave me the resutls the amount of empty neighbors but this had a flow because it did not account for the once that were aligned with the grid which had only 5 possible neigbors.  
 
 
-## #Results
+### Results
 I have set the values as the book and rerun with the modified code but the results were not exaclty the same and mine count not finish the models because of the modified code.
 
 ### Discussion
