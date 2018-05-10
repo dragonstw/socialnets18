@@ -59,10 +59,10 @@ The following dates are holidays or the classes are cancelled for other reasons:
 | 6 | Random Network Models | probability review, binomial distribution, Poisson (Erdos-Renyi) | MOJ 1.2.3, 4; E&K 20.1-20.2 | [3:Random Networks in NetLogo](assignments/assignment3.md) | [slides](resources/06_RandomGraphs.pptx) |  |
 | - | **_Midterm_** |  |  |  | [Review slides](resources/MidtermReview.pptx) | Exam on 26th April |
 | 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure | E&K 4.1-4.4 |  | [slides](resources/notavailable.md) |  |
-| 8 | Growing graphs | small worlds, geographic networks, decentralized search | MOJ 5 | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
+| 8 | Growing graphs | small worlds, geographic networks, decentralized search | MOJ 5 |  | [slides](resources/notavailable.md) |  |
 | 9 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
 | 10 | Ethics in Social Network Analysis |  |  |  |
-| 11 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
+| 11 | Applications of Social Network Analysis | multiple applied domains |  |  | [slides](resources/notavailable.md) |  |
 | 12 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
 | - | **_Final_** |  |  |  |  |  |  |
 
