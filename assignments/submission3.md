@@ -53,7 +53,7 @@ What ```go``` does is form many community by forming new edges between two rando
 Giant component size increase as more nodes are connected. Initially the Giant component size is 1 and when I run ```go-once``` once it becomes 2 and when I run it 10 times Giant component size becomes 4.
 ### Discussion
 The difference between ```go-once``` and ```go``` monitors is, on the ```go``` monitor the 'Forever' check-box is checked so thats why it runs continuosly.
-I changed the following code
+I changed the following code.
 Original code
 ```
 to color-giant-component
