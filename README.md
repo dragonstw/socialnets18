@@ -58,13 +58,12 @@ The following dates are holidays or the classes are cancelled for other reasons:
 | 5 | Community Detection | hierarchical clustering, stochastic block models  | MOJ 13.2 | | [slides](resources/05_CommunityDetection.pptx) | Assignment 2 due 12th Apr |
 | 6 | Random Network Models | probability review, binomial distribution, Poisson (Erdos-Renyi) | MOJ 1.2.3, 4; E&K 20.1-20.2 | [3:Random Networks in NetLogo](assignments/assignment3.md) | [slides](resources/06_RandomGraphs.pptx) |  |
 | - | **_Midterm_** |  |  |  | [Review slides](resources/MidtermReview.pptx) | Exam on 26th April |
-| 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure | E&K 4.1-4.4 |  | [slides](resources/notavailable.md) |  |
-| 8 | Growing graphs | small worlds, geographic networks, decentralized search | MOJ 5 |  | [slides](resources/notavailable.md) |  |
-| 9 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
-| 10 | Ethics in Social Network Analysis |  |  |  |
-| 11 | Applications of Social Network Analysis | multiple applied domains |  |  | [slides](resources/notavailable.md) |  |
-| 12 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
-| - | **_Final_** |  |  |  |  |  |  |
+| 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure | E&K 4.1-4.4 | [4:Networks over time](assignments/assignment4.md) | [slides](resources/07_Homophily.pptx) |  |
+| 8 | Growing networks | preferential attachment, small worlds, geographic networks | MOJ 5 |  | [slides](resources/08_GrowingNetworks.pptx) |  |
+| 9 | Information cascades | simple contagion, threshold models, opinion formation, coordination, cooperation | E&K 19 |  | [slides](resources/09_InformationCascades.pptx) |  |
+| 10 | Ethics in Social Network Analysis |  |  |  | [slides](resources/09_InformationCascades.pptx) |  |
+| - | **_Final_** | cumulative (including all SNA topics) |  |  |  | 4th June 8:30am |
+| - | **_Late Assignment Deadline_** | Assignments 1, 2, 3, and 4 |  |  |  | 4th June 8:30am |
 
 
 ## Communications
