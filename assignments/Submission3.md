@@ -40,10 +40,10 @@ The following screenshot of netlogo shows the setup of the nodes with 28 in numb
 ![setup with 28 nodes](image1.PNG)
 
 
-![rewire-once](image2.png)
+![rewire-once](image2.PNG)
 
 
-![rewire-all](image3.png)
+![rewire-all](image3.PNG)
 
 on rewire-one: the x axis represents the fraction of edges thats is edges that are so far rewired. and the y-axis represents the apl(average path length) and the cc(clustering coefficient).
 the plot of this axis shows:- apl is becomeing constant and cc is decreasing (Get low)
