@@ -37,7 +37,7 @@ end
 With 50 nodes it has a clustering coefficient of 0.5, an average path length of 6.63 and a diameter of 13 at the begining.
 The following screenshot of netlogo shows the setup of the nodes with 28 in number, the rewire-one many times with the rewiring probability of range 0.44-0.54 , and the rewire-all many times.
 
-![setup with 28 nodes](image1.png)
+![setup with 28 nodes](image1.PNG)
 
 
 ![rewire-once](image2.png)
