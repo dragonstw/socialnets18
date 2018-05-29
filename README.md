@@ -14,12 +14,10 @@ Spring Semester 2018
 * Office: PB103 Pharmacy Campus
 <!-- * Twitter: @just\_stw\_it -->
 
-**Venkateswarlu Sunkari**
-* Email: v dot sunkari at aait dot edu dot et
-* Office: PB104 Pharmacy Campus
+Hat tip to Dr. Venkateswarlu Sunkari, who taught a previous version of this course at AAIT.
 
 ### When & Where
-* T 8:00 - 10:00am | Lecture NB111
+* M 8:00 - 10:00am | Lecture NB111 | (Originally T 8:00 - 10:00am)
 * Th 8:30 - 12:30pm | Lab NB111
 
 Office Hours:
@@ -35,25 +33,40 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 
 ### Textbook & Tools
 * Required: D. Easley, J. Kleinberg. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book). Cambridge University Press, 2010. 
-    - The whole book is avilable online.
+    - The whole book is available online.
     - Referred to in the schedule below as E&K
+* Optional: M. O. Jackson, [Social and Economic Networks.](https://archive.org/download/SocialAndEconomicNetworksMatthewO.Jackson/Social%20and%20Economic%20Networks%20-%20Matthew%20O.%20Jackson.pdf). Princeton University Press, 2008.
+    - This is a bit more technical than E&K, containing lots of good math definitions
+    - Referred to in the schedule below as MOJ
 * [Gephi](http://gephi.org/) is a tool for visualizing and manipulating graphs that we will use in our assignments.
 * [NetLogo](http://www.ladamic.com/netlearn) is a tool that can be used for modeling & simulating networks.
 
 
 ## Schedule and Assignments
- 
+The following dates are holidays or the classes are cancelled for other reasons:
+* 5th Apr
+* 9th Apr
+* 17 May
+* 21 May
+* 14 June
+
 | # | Topic | Concepts | Reading | Activity | Materials | Notes |
 | --- | --- | -------- | ------- | -------- | --------- | ----- |
 | 1 | Networks: What and Why? | nodes, edges, adjacency matrix | E&K 1-2.1 | [0:Setup](assignments/assignment0.md) | [slides](resources/01_Introduction.pptx) | Discuss this Syllabus |
 | 2 | Graph Theory | connected components, node degree, paths, diameter, breadth-first search | E&K 2.1-2.4 | [0:Setup](assignments/assignment0.md) | [slides](resources/02_GraphTheory.pptx) |  |
-| 3 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties | E&K 3.1-3.6 | Download, visualize, calculate on a social network | [slides](resources/03_NetworkStructure.pptx) |  |
-| 4 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
-| 5 | Community | clustering, community structure, modularity, overlapping communities |  | Detect communities in real-life networks | [slides](resources/notavailable.md) |  |
-| 6 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
-| 7 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
-| 8 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
-| 9 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
+| 3 | Network Structure | giant component, cliques, bridges, local bridges, triadic closure, strong and weak ties | E&K 3.1-3.5 | [1:Facebook](assignments/assignment1.md) Download, visualize, calculate metrics | [slides a](resources/03_NetworkStructure.pptx), [slides b](resources/03b_NodeLevelMetrics.pptx) | Assignment 1 due 29th Mar |
+| 4 | Communities | clustering, community structure, modularity | E&K 3.6, MOJ 13.2 | [2:Community detection](assignments/assignment2.md) <br> in real-life networks | [slides](resources/04_Communities.pptx) |  |
+| 5 | Community Detection | hierarchical clustering, stochastic block models  | MOJ 13.2 | | [slides](resources/05_CommunityDetection.pptx) | Assignment 2 due 12th Apr |
+| 6 | Random Network Models | Erdos-Renyi, Barabasi-Albert, preferential attachment |  | Create & analyze random networks | [slides](resources/notavailable.md) |  |
+| - | **_Midterm_** |  |  |  |  |  |
+| 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure, Schelling model | E&K 4.1-4.6 |  | [slides](resources/notavailable.md) |  |
+| 8 | Small worlds, optimization, formation, search | small worlds, geographic networks, decentralized search |  | Detect small-world, simulate search | [slides](resources/notavailable.md) |  |
+| 9 | Contagion, opinion formation, coordination, and cooperation | simple contagion, threshold models, opinion formation |  | Simulate impact of network structure | [slides](resources/notavailable.md) |  |
+| 10 | Ethics in Social Network Analysis |  |  |  |
+| 11 | Applications of Social Network Analysis | multiple applied domains |  | Explore domain-specific networks | [slides](resources/notavailable.md) |  |
+| 12 | Online social networks | social media industry |  | Read recent SNA research | [slides](resources/notavailable.md) |  |
+| - | **_Final_** |  |  |  |  |  |
+
 
 ## Communications
 * You should sign up for the [**AAIT ITSC Slack group**](https://aaititsc.slack.com/) (I'll send an invite) for communication with the professor and with other students.
@@ -68,7 +81,7 @@ The course structure is based on the [techied](http://bit.ly/techied) framework.
 * 10% Participation (attendance, interaction in class)
 
 For assigned Lab Activities, two things should be mentioned:
-* All assignments must be turned in by the due date. Students who leave _any one assignment_ unfinished at the and of the class will receive an `Fx` score for the whole course.
+* All assignments must be turned in by the due date. Students who leave _any one assignment_ unfinished at the end of the term will receive an `Fx` score for the whole course.
 * You can drop one of your assignment grades (i.e., it will not count toward your final score).
 
 Letter grades are given at 5-point intervals:
@@ -91,9 +104,12 @@ A grading rubric will be posted along with each assignment (Lab Activity), expli
 Physical attendance at lectures & labs is expected.  However, you can miss 3 days for any reason (e.g., sickness, death of a _friend's_ family member) with no consequence to your participation grade.  Please discuss any extenuating circumstances (e.g., death in _your_ family, severe illness or injury) with the instructor.
  
     Missed classes:  ____________   ____________   ____________ 
-    
-During lectures & labs, we will learn through groups and a variety of active learning techniques.  Participation in these activities is part of your grade (part of the 10%).
 
+Additionally, when the instructor (Dr. Stephen) is late to class or cancels without advance notice, each student will gain an additional excused tardy or absence.
+
+Beyond the excused absences, missing or being late to classes will incur some penalty on your Participation grade. (There are things in life that are more important than class; your grade will reflect the trade-off that you are taking when you skip class.)
+
+During lectures & labs, we will learn through groups and a variety of active learning techniques.  Participation in these activities is also part of your grade (part of the 10%).  
 
 
 ### Late Work
