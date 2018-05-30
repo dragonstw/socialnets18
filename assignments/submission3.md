@@ -1,5 +1,5 @@
 #Assignment 3: Detecting Communities
-
+Bekalu Ersubalew
 ##Introduction
 
 In this Assignment we will be dealing with the distribution of random networks.by doing this i have learned 
@@ -9,7 +9,8 @@ differnt outcomes
 
 
 ##Part 1: Small Worlds
-###methods
+
+###Methods
 let me start by defining Rewiring on network assum that we have nodes that are connected to one another by 
 rewiring means altering the connection of nodes or the links among them and connecting that node to another 
 random node.there are two options in rewiring the first one is rewire one and rewire all and if we click it until all are 
@@ -36,6 +37,7 @@ links among all edges in a network
  
 
 ## Part 2: Segregation
+
 ### Methods
 As in the instruction i changed the value of the gird to 150*150,88% density by implementing density we can control the neghibourhood density.and also 30% similarity.and after i run the model,we get a 74.4 similarity this is because we have zero percent unhappy agents.
 
@@ -80,7 +82,7 @@ The color changed the cluster color from red to yellow.
 ## Conclusion
 
 In this assignment the above three small world,segregation and giant components were new to me.
-but in doing this assignments i have gained knowlege in interperting them
+but in doing this assignments i have gained knowlege in interperting them.
 
 
 
