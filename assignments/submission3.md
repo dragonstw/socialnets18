@@ -25,7 +25,7 @@ end
 clustering-cofficent is 0.5,avarage path length is 6.63 and last diameter is 13
 this results came by modfying th enumber of node to fifty.
 
-![Alt text] (small.PNG)
+![Alt text](small.PNG)
 ### Discussion
 
 In doing this assignment i have noticed that clustering cofficient varys each time when we rewire.
@@ -47,7 +47,7 @@ number unhappy = 405
 
 percentage unhappy = 17.1
 
-![Alt text] (segregaitonset.PNG)
+![Alt text](segregaitonset.PNG)
 After go it becomes:
 
 percentage similar = 74.4
