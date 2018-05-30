@@ -2,9 +2,7 @@
 Bekalu Ersubalew
 ##Introduction
 
-In this Assignment we will be dealing with the distribution of random networks.by doing this i have learned 
- how random graphs are described by probability distribution. by using netlogo which is a modeling tool which
- works on all major platform i used different techniques to get 
+In this Assignment we will be dealing with the distribution of random networks.by doing this i have learned  how random graphs are described by probability distribution. by using netlogo which is a modeling tool which works on all major platform i used different techniques to get 
 differnt outcomes
 
 
