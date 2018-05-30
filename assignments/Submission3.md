@@ -26,9 +26,12 @@ on the rewire-one, set rewire-one ? True
 		   set rewire-all ? False this chooseswhich one is installed on the interface and will work
 if count turtles != num - node this means if bothe are equal it will jump if not it will setup again.
 potential edges: are so far not connected edges but that can be a link which is going to be rewired.. To rewire a node first it must not be rewired.
-``` to diameter
+
+```
+ to diameter
   set leuldiameter [max distance-from-other-turtles] of turtles
 end
+```
 
 ### Results
 With 50 nodes it has a clustering coefficient of 0.5, an average path length of 6.63 and a diameter of 13 at the begining.
