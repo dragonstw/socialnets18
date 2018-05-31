@@ -57,12 +57,12 @@ The following dates are holidays or the classes are cancelled for other reasons:
 | 4 | Communities | clustering, community structure, modularity | E&K 3.6, MOJ 13.2 | [2:Community detection](assignments/assignment2.md) <br> in real-life networks | [slides](resources/04_Communities.pptx) |  |
 | 5 | Community Detection | hierarchical clustering, stochastic block models  | MOJ 13.2 | | [slides](resources/05_CommunityDetection.pptx) | Assignment 2 due 12th Apr |
 | 6 | Random Network Models | probability review, binomial distribution, Poisson (Erdos-Renyi) | MOJ 1.2.3, 4; E&K 20.1-20.2 | [3:Random Networks in NetLogo](assignments/assignment3.md) | [slides](resources/06_RandomGraphs.pptx) |  |
-| - | **_Midterm_** |  |  |  | [Review slides](resources/MidtermReview.pptx) | Exam on 26th April |
+| - | **_Midterm_** |  |  |  | [review slides](resources/MidtermReview.pptx) | Exam on 26th April |
 | 7 | Homophily & Affiliation | homophily, selection, social influence, affiliation, focal closure, membership closure | E&K 4.1-4.4 | [4:Networks over time](assignments/assignment4.md) | [slides](resources/07_Homophily.pptx) |  |
 | 8 | Growing networks | preferential attachment, small worlds, geographic networks | MOJ 5 |  | [slides](resources/08_GrowingNetworks.pptx) |  |
 | 9 | Information cascades | simple contagion, threshold models, opinion formation, coordination, cooperation | E&K 19 |  | [slides](resources/09_InformationCascades.pptx) |  |
 | 10 | Ethics in Social Network Analysis |  | [FB study](http://www.pnas.org/content/pnas/early/2014/05/29/1320040111.full.pdf) |  | [FAT/ML principles](https://www.fatml.org/resources/principles-for-accountable-algorithms) |  |
-| - | **_Final_** | Lectures 6-10 |  |  |  | 4th June 8:30am |
+| - | **_Final_** | Lectures 6-10 |  |  | [review slides](resources/FinalReview.pptx) | 4th June 8:30am |
 | - | **_Late Assignment Deadline_** | Assignments 0, 1, 2, 3, and 4 | 11th June 1:30pm (75%) | 14th June 8:30am (25%) | Subsequent: `Fx` for course |  |  |
 
 
