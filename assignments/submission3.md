@@ -21,20 +21,14 @@ Additional rewires show that
 Clustering coefficient 0.05
 average-path-length 2.928
 ![another rewind](rew2.png)
-I clicked rewire-one until both average path length and clustering coefficient become horizontal.
-These values will obviously change if I make another rewire so I did not include another data. But I believe the clustering coefficient is calculated again with the new number of edges.
 
 ### Discussion
-There is constant horizontal increase in the plot this means there is constant output they keep adding edges with the same value of vertical because the rate at which tend to cluster is uniform by using rewire one. 
+There is constant horizontal increase in the plot this means there is constant output they add edges with the same value of vertical because the rate at which tend to cluster is uniform by using rewire one. 
 
 ## Part 2: Segregation
-Normally it is 30% similar wanted but I changed the density to 88%. 
-This shows that agents want to live close to their own similarities. Intolerant agents are those who are in the minority.
-
+ 
 ### Methods
-While clicking go the plot starts from whererever its current location is to 88% where it is configured. The time curve shows there is also a calculated time projection. 
-The unhappy increase from around 400 to 0 in 13.8 seconds when I click go. 
-When I click on go once it takes the same route (same steps) and after many steps it reaches where there is no longer need to create segregation because no unhappy agents. This produces same results as go on its last step.
+I changed the percentage to 88% and the unhappy number increase from around 400 to 0 in 13.8 seconds when I click go. 
 
 ### Results
 Here are the results
@@ -58,7 +52,7 @@ num-unhappy = 0
 
 ### Discussion
 The outcome shows the maximum similarity is 74.9 that is the best arrangement that is made here because this is the most configuration with less number of unhappy agents.
-Agents keep displacing until this happens this shows the agents tendency towards their own homogeneous pattern.
+Agents displace until this happens this shows the agents tendency towards their own pattern.
 
 ## Part 3: Giant Component
 ### Methods
@@ -83,8 +77,13 @@ giant component size = 80
 fraction in giant component = 1
 connections per node = 88
 
-this is reached totally on 3160 ticks and all nodes are fully connected.
-From the graph I noted that the fraction in giant connection will change if a new connection is formed with a new node and it remain constant if there is no node that has no connection.
-
+I tried my best to change the code because of many errors in other areas I changed the loop like this
+'''
+    [
+      set giant-component-size 0
+      set giant-start-node start
+    ]
+'''
+First instead of 0 it was set giant-component-size component-size. After that when I run it it did not show the process but finally giant component appeared.
 ### Discussion
-After the last step here every node is reachable from any other node. Giant component enables to describe how everyone can be interconnected through random networks.
+After the last step here I see every node is connected. Giant component enables to describe how everyone can be connected through random networks.
