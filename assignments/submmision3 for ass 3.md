@@ -1,7 +1,7 @@
 NAME DANIEL BEDORE
 
 INTRODUCTION
- In this lab I went through simulation of random network using modeling tool called Net logo and could understand it to some extent. This lab assignment has three parts like small world, segregation and giant component and using the tool which I mentioned earlier experiment Watts-Strogatz model of the small-worlds, Schelling model of geographic segregation and  giant component phenomenon.
+In this lab I went through simulation of random network using modeling tool called Net logo and could understand it to some extent. This lab assignment has three parts like small world, segregation and giant component and using the tool which I mentioned earlier experiment Watts-Strogatz model of the small-worlds, Schelling model of geographic segregation and  giant component phenomenon.
 
 PART I
 
@@ -22,7 +22,7 @@ cc=0.059
 apl=2.89
 
 DISCUSSION
-The clustering-coefficient as its name indicate connected components in the network so, it does change when re-wiring done to the network since re-wiring done nodes randomly selected.                                  
+The clustering-coefficient as its name indicate connected components in the network so, it does change when re-wiring done to the network since re-wiring done nodes randomly selected.                             
 re-wiring nodes in the network means randomly connecting nodes available in this random network
 so,re-wiring occur therefore the cc value fluctuate since new connections are happening between
 the nodes in the network.
