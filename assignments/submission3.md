@@ -40,6 +40,7 @@ All triplets keep the graph constant by having relatively equal number to triang
 Segregation is easy to describe. It is a best way of calculating density of components and to knowing how the agents there are tolerant for each other. More tolerant people will be those who live closely to similar color paterns in the graph.
 When I opened it first the density is 95 percent but I change it to 80% and percentage is 30$. 
 We initialize from 0 and first there is no agent in our graph. After I click setup 2470 agents are created.
+
 ![segregation](segregation.png)
 ### Results
 by the beginning
