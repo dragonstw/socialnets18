@@ -1,7 +1,6 @@
 # Assignment 4: Networks over time
 Habteab Yohannes
 
-
 ## Introduction
 This lab involves studying about temporal analysis and the importance of bridge in email communication. Previously we have done a static email data from core network and in this lab we have a temporal version.
 ## Methods

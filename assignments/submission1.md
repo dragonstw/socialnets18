@@ -5,7 +5,6 @@ Habteab Yohannes
 In this submission I describe about facebook data graph.  
 
 ## Methods
-
 To start with how I arrange the graph. I took the file from a friend since the google chrome plug in currently is not available. The file has extension of graphml. GraphML is a data set which can be imported by gephi as stream.
 
 ## Results

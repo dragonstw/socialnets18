@@ -95,5 +95,6 @@ repeat 10 [
     display  ;; so we get smooth animation
   ]
  to repeat 100
+
  after this code it keeps repeating the layout and takes more time.
 Generally i find this lab interesting and i learned most about giant components and segregation.
