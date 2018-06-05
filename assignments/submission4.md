@@ -26,13 +26,13 @@ Edges: 24929
 
 At 12,096,00
 
-![screenshot1](sc1.png)
+![screenshot1](s1.png)
 At 18,144,000
 
-![screenshot2](sc2.png)
+![screenshot2](s2.png)
 At 24,192,000
 
-![screenshot3](sc3.png)
+![screenshot3](s3.png)
 
 ## Discussion
 As we see from the graph, there is 1 weakly connected component. This usually represent bridges. The strongly connected components are 184. Biridges are efficient for email communication for weakly connected components. Otherwise, for strongly connected components because they already know each other it doesnt matter.
