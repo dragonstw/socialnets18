@@ -56,7 +56,7 @@ Agents displace until this happens this shows the agents tendency towards their 
 
 ## Part 3: Giant Component
 ### Methods
-The first step in this giant component is assigning number of nodes. After I assign that that appears in the diagram with different images of people that are not yet connected. 
+The first step in this giant component is assigning number of nodes. When I assign that it appears in the diagram with different images of people that are not yet connected. 
 
 Since the goal is to create a giant component from these nodes we need to create connections between every node. finally we get giant component that has a path to every other person in the plot.
 
