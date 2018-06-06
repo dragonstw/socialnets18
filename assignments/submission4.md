@@ -31,20 +31,20 @@ Mean = 208.996
 
 ### The original graph
 
-![graph](4.png)
+![graph](4.PNG)
 
 
 #### starting at time 12,096,000 (20 weeks)
 
-![graph](20w.png)
+![graph](20w.PNG)
 
 #### at time 18,144,000 (30 weeks)
 
-![graph](30w.png)
+![graph](30w.PNG)
 
 #### at time 24,192,000 (40 weeks)
 
-![graph](40w.png)
+![graph](40w.PNG)
 
 ## Discussion
 To the answer the question "A "bridge" person in an organization connects many different people. Are "bridge" people more efficient or less efficient at email communication?
