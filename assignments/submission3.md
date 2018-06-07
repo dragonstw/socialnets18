@@ -1,5 +1,6 @@
 ## Introduction
 
+In this assignment I have seen the different factors that could contribute to the different type of visualization of a graph. This factors produce results such as different clustering coefficient and average path length. Other discoveries made on this assignment was the application "netlogo", this application introduces different models and makes us look at network graphs in ways we haven't before in "gephi".
 
 ## Part 1: Small Worlds
 
