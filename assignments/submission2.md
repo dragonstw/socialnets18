@@ -1,5 +1,5 @@
 # Assignment 2: Detecting Communities
-Biruk Gebrekidan
+Habteab Yohannes
 
 ## Introduction
 The system shows a data about who emailed whom and how people are interconnected. For example, if one person is connected to another, both of them are considered nodes, and their connection is like department. 
