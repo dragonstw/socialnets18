@@ -28,12 +28,14 @@ average-path-length = 6.633
 diameter = 13
 
 In rewiring-once it is rewiring not connected nodes
-.
+<br />
 ![PNG_image](plot2.png) 
 
-
+<br />
 In rewiring-all it is rewiring all randomly at single button push.
+<br />
 ![PNG_image](plot1.png)
+<br />
 
 In the above plot the red line describes average-path-length(apl) and blue line describe clustering coefficient(cc) so the plot show how rewiring change clustering coefficient and average path length.  
 ### Discussion
@@ -49,9 +51,13 @@ I have installed NetLogo and from files tab opened model library and choose Soci
 
 ### Results
 Inital point
+<br />
 ![PNG_image](seg1.png)
+<br />
 After segregation
+<br />
 ![PNG_image](seg.png)
+<br />
 ### Discussion
 
 when we see the above screen shots the first one is initial point and when we finish it shows us the second screen shot in the process the agents change through time and find their own agent at least time and decrease number of unhappy agents.  
