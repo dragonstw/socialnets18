@@ -34,7 +34,9 @@ In rewiring-once it is rewiring not connected nodes
 <br />
 In rewiring-all it is rewiring all randomly at single button push.
 <br />
+
 ![PNG_image](plot1.png)
+
 <br />
 
 In the above plot the red line describes average-path-length(apl) and blue line describe clustering coefficient(cc) so the plot show how rewiring change clustering coefficient and average path length.  
