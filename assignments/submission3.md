@@ -16,9 +16,9 @@ In rewire-once procedure first it will checks if turtles setup correctly then re
 
 Rewiring means connecting edges that did not link before.
 
- ```to diameter
+	to diameter
 	  set ds max [max distance-from-other-turtles] of turtles
-	end ```
+	end
 
 
 ### Results
