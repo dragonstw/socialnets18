@@ -26,7 +26,7 @@ The diameter is 13
 while clicking the rewire-one button i have analyzed that both of the clustering coefficient and the average path length decreased from 0.5 to 0.07 and 6.633 to 2.867 consecutively.
 
 
-![Graph Image](rewire-one.png)
+![Graph Image](rewire-one.PNG)
 
 
 And while clicking the rewire-all button the following results appeared.
@@ -35,7 +35,7 @@ clustering coefficient=0.249
 
 average path length=3.147
 
-![Graph Image](rewire-all.png)
+![Graph Image](rewire-all.PNG)
 
 
 As the rewiring performs the original connected nodes will be disconnected and they will be connected randomly to other nodes so the shapes of the plots will be changing as the rewiring happens.
@@ -59,7 +59,7 @@ This model from netlogo basically demonstrates the effect of similarity, and the
 
 ### Results
 
-![Graph Image](go-once.png)
+![Graph Image](go-once.PNG)
 
 While clicking the Go once button within 88% density ,30% %-similar-wanted and 79628 number of agents i have found the following results
 
@@ -69,7 +69,7 @@ Number of unhappy = 7706
 
 % unhappy = 9.7
 
-![Graph Image](go.png)
+![Graph Image](go.PNG)
 
 With the same context while clicking the go button and wait till the end within the same information as the above, i have been able to show the following results.
 
@@ -96,11 +96,11 @@ On the start we will have nodes without any connections then it will create a co
 while i setup the number of nodes to 80 i have been able to see the followin result and the Giant component size is 80
 
 
-![Graph Image](Giant component.png)
+![Graph Image](Giant component.PNG)
 
 And i was able to change the color of the giant component by changing the following text code.
 
-![Graph Image](change code.png)
+![Graph Image](change code.PNG)
 
 ### Discussion
 
