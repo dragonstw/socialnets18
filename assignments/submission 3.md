@@ -100,7 +100,7 @@ while i setup the number of nodes to 80 i have been able to see the followin res
 
 And i was able to change the color of the giant component by changing the following text code.
 
-![Graph Image](color change.png)
+![Graph Image](change code.png)
 
 ### Discussion
 
