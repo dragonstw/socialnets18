@@ -77,7 +77,7 @@ With the same context while clicking the go button and wait till the end within 
 
 Number of unhappy = 0
 
-% unhappy = 0
+% unhappy = 0 
 
 ### Discussion
 
