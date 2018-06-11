@@ -96,7 +96,7 @@ On the start we will have nodes without any connections then it will create a co
 while i setup the number of nodes to 80 i have been able to see the followin result and the Giant component size is 80
 
 
-![Graph Image](Giant component.PNG)
+![Graph Image](giant component.PNG)
 
 And i was able to change the color of the giant component by changing the following text code.
 
