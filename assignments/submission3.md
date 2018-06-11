@@ -18,14 +18,14 @@ The first button which is used to rewire-one used to rewire each edge to other e
 
 ### Results
 During this investgation I found some results related to this. The first thing i see is the clusturing coefficent is varing every time I rewire each node also the avarage path length(APL) and the diameter vary according to our edges connection. Each changes happen because of the rewireng probability will be affected  by these factors.
-![first sample Rewire](screenshott1.png)
+![first sample Rewire](screenshott1.PNG)
 The Clustering-coefficient is 0.281
 And theAverage-path-length is 3.777
 
 The Additional rewires show that
 The Clustering coefficient is 0.097
 And the average-path-length is 3.145
-![last Sample](screenshott.png)
+![last Sample](screenshott.PNG)
 
 ### Discussion
 As a result There is a constant increase in the plot this means there is constant output. 
@@ -52,7 +52,7 @@ num-unhappy = 0
 %unhappy = 0
 
 
-![last Sample](seg.png)
+![last Sample](seg.PNG)
 
 ### Discussion
 the final outcome shows that the similar wanted percent diffrent when ever I incerased the percentage it eleminate the node which is diffrent from the group and takes longer time
@@ -77,6 +77,6 @@ connections per node = 33
 
 At last it take longer time to load the final output but the final image has appeared
 
-![last Sample](giant.png)
+![last Sample](giant.PNG)
 ### Discussion
 In the last step I have learn every node is connected. THis Giant componet enables to describe how anyone can be easly connected through random network
