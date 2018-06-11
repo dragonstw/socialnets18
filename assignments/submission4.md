@@ -14,14 +14,14 @@ The values of the different matrices; Modularity: 0.666, Number of Communities: 
 I used the time as a filter to see the graphs at different times. Here is what I calculated for 20 weeks, 30 weeks and 40 weeks;
 
 20 weeks average path length 4.546 and coefficient 429
-![](week20.png)
+![](week20.PNG)
 30 weeks average path length 3.937 and coefficient 354
-![](week30.png)
+![](week30.PNG)
 40 weeks average path length 2.165 and coefficient 309
-![](week40.png)
+![](week40.PNG)
 
 Different communities clustering coefficient values 1 = 0.862, 2 = 0.204, 3 = 0.422, 4 = 0.208, 5 = 0.214, 6 = 0.435, 7 = 0.562, 8 = 0.621, 9 = 0.342, 10 = 0.755, 11 = 0.686, 12 = 0.454, 13 = 0.326, 14 = 0.264, 15 = 0.648.
-![](module.png)
+![](module.PNG)
 
 ## Discussion
 There are different nodes and links that develop over time. The answer for the question is that a bridge person is more efficient in communication and here is why. The number of components decreases as the time increases at the same time this means number of bridges increase too. The average path length decreases this time. A graph with a lower average pathlength is efficient.
