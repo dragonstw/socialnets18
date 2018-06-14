@@ -13,10 +13,12 @@ Generally from the above explanations, rewiring in a network means producing new
 
 I have used the following code to calculating the diameter:
 
-``` Extensions [nw]
+    ``` 
+    Extensions [nw]
     to diameter
   	show max [max[NW:distance-to myself] of other turtles ] of turtles 
-    end```
+    end
+    ```
   
 ### Results
 At the beginning of a Watts-Strogatz model with 50 number of nodes i have got the following results:
