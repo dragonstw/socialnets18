@@ -1,20 +1,20 @@
 Assignment 4
 Bekalu Ersubalew
 
-##Introduction
+## Introduction
 our last assignment deals with networks over time. In this semister, "social net" class have
 helped us to know new terms and differnt tools and algorithms that are used in Network. 
 While doing this assinment we will encounter Networks that will evolve over time.
 
 
-##Methods
+## Methods
  we have three  diifernt toos to do this assignment. One is using Snappy, 
 second using pandas, lastley using Gephi.I  have tried to see the other tools,
  because i find it time taking i used gephi and execl (by uding excel we can
 calculate  the stanared deviation and mean results) as the pervious assignments 
 because i am familar with it.
 
-##Results
+## Results
 
 The results are as follows;
 Number of Weakly Connected Components: 1
@@ -33,14 +33,14 @@ clustering coefficient for community 0=0.112, community 1=0.564, community 2=0.8
 ![](40weekbekalu.png)
 
 
-##Disscussion
+## Disscussion
 There is a main question we should try to answer in this lab, 
 before answering the question we must clearly know what a bridge is.
  In interperting the question i have reached into a conclusion that 
 bridge people are more effiecient because when number of components gets low which in other woed means "bridges'are more and APL(avarage path length)gets low so that distance get shorter therfeore  inforamtion can go easily(effieciently).
 
 
-##Conclusion
+## Conclusion
 in this assignment we have gained a new knowlege about networks over time.i have seen the term 'bridge'
  in a more detail way, i have a good understang about temporal network .finally  i would like to thank you 
 for the amazing time we had in the classroom. God bless you!
